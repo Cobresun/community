@@ -1,7 +1,7 @@
 <template>
-    <div class="card">
-    <img v-bind:src="episode.imageUrl" alt="Avatar" style="width:100%">
-        <h3 @click="push('/ep/', episode.episodeGlobally)"><b>{{ episode.title }}</b></h3>
+    <div class="card" @click="push('/ep/', episode.episodeGlobally)">
+        <img v-bind:src="episode.imageUrl" alt="Avatar" style="width:100%">
+        <h3><b>{{ episode.title }}</b></h3>
         <p>{{"Season " + episode.season + " Episode "+ episode.episodeInSeason}}</p>
     </div>
 </template>
@@ -27,5 +27,13 @@ export default {
     .card {
         border: 2px solid #e7e7e7;
         border-radius: 4px;
+        transition: 0.5s ease;
+    }
+    .card:hover {
+        -webkit-transform:scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+        transition: 0.5s ease;
+        cursor: pointer;
     }
 </style>
