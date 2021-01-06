@@ -1,6 +1,8 @@
 <template>
     <div class="card">
-        <h3 @click="push('/ep/', episode.episodeGlobally)">{{ episode.title }}</h3>
+    <img v-bind:src="episode.imageUrl" alt="Avatar" style="width:100%">
+        <h3 @click="push('/ep/', episode.episodeGlobally)"><b>{{ episode.title }}</b></h3>
+        <p>{{"Season " + episode.season + " Episode "+ episode.episodeInSeason}}</p>
     </div>
 </template>
 
@@ -25,6 +27,5 @@ export default {
     .card {
         border: 2px solid #e7e7e7;
         border-radius: 4px;
-        padding: .5rem;
     }
 </style>

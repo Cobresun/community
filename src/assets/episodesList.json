@@ -1,7 +1,7 @@
 [
     {
-        "title": "Episode 1: Pilot",
-        "imageUrl": "test.png",
+        "title": "Pilot",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
         "season": 1,
         "episodeInSeason": 1,
         "episodeGlobally": 1,
@@ -18,8 +18,8 @@
         ]
     },
     {
-        "title": "Episode 2: Spanish 101",
-        "imageUrl": "test.png",
+        "title": "Spanish 101",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
         "season": 1,
         "episodeInSeason": 2,
         "episodeGlobally": 2,
@@ -28,8 +28,8 @@
         ]
     },
     {
-        "title": "Episode 3: Introduction to Film",
-        "imageUrl": "test.png",
+        "title": "Introduction to Film",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
         "season": 1,
         "episodeInSeason": 3,
         "episodeGlobally": 3,
