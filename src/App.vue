@@ -1,15 +1,33 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div>
+    <h1>Community References</h1>
+    <p>Super-charge your next Community rewatch with every reference from every episode of our favourite NBC sitcom!</p>
+    <SearchBar />
+    <EpisodeFrame 
+      v-for="episode in episodes" 
+      v-bind:key="episode.id" 
+      v-bind:title="episode.title" />
+  </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import EpisodeFrame from './components/EpisodeFrame.vue'
+import SearchBar from './components/SearchBar.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    EpisodeFrame,
+    SearchBar
+  },
+  data () {
+    return {
+      episodes: [
+        { id: 0, title: 'Episode 1: Pilot' },
+        { id: 1, title: 'Episode 2: Spanish 101' },
+        { id: 2, title: 'Episode 3: Introduction to Film' }
+      ]
+    }
   }
 }
 </script>
