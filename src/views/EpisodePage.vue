@@ -5,7 +5,7 @@
             <p v-for="reference in references" v-bind:key="reference">{{ reference.name }} ({{ reference.type }})</p>
         </div>
         <div v-if="references.length === 0">
-            <p>No references for this episode!</p>
+            <p>No references for this episode 😢</p>
         </div>
     </div>
 </template>
