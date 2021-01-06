@@ -1,42 +1,6 @@
 <template>
-  <div>
-    <h1>Community References</h1>
-    <p>Super-charge your next Community rewatch with every reference from every episode of our favourite NBC sitcom!</p>
-
-    <SearchBar v-model="searchText"/>
-
-    <EpisodeFrame
-      v-for="episode in filteredEpisodes"
-      v-bind:key="episode.episodeGlobally"
-      v-bind:title="episode.title" />
-  </div>
+  <router-view/>
 </template>
-
-<script>
-import EpisodeFrame from './components/EpisodeFrame.vue'
-import SearchBar from './components/SearchBar.vue'
-
-import episodeList from './assets/episodesList.json'
-
-export default {
-  name: 'App',
-  components: {
-    EpisodeFrame,
-    SearchBar
-  },
-  data () {
-    return {
-      episodes: episodeList,
-      searchText: ''
-    }
-  },
-  computed: {
-    filteredEpisodes() {
-      return this.episodes.filter(episode => episode.title.toLowerCase().includes(this.searchText.toLowerCase()))
-    }
-  }
-}
-</script>
 
 <style>
 #app {
@@ -45,6 +9,18 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+}
+
+#nav {
+  padding: 30px;
+}
+
+#nav a {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+#nav a.router-link-exact-active {
+  color: #42b983;
 }
 </style>
