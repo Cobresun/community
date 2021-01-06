@@ -4,49 +4,28 @@
     <p>Super-charge your next Community rewatch with every reference from every episode of our favourite NBC sitcom!</p>
 
     <SearchBar v-model="searchText"/>
-    
-    <div class="cards">
-      <EpisodeFrame
-        v-for="episode in filteredEpisodes"
-        v-bind:key="episode.episodeGlobally"
-        v-bind:episode="episode"/>
-    </div>
+    <EpisodeGallery v-bind:episodeList="episodeList" v-bind:searchText="searchText" />
   </div>
 </template>
 
 <script>
-import EpisodeFrame from '../components/EpisodeFrame.vue'
 import SearchBar from '../components/SearchBar.vue'
+import EpisodeGallery from '../components/EpisodeGallery'
 
 import episodeList from '../assets/episodesList.json'
 
 export default {
   name: 'Home',
   components: {
-    EpisodeFrame,
+    EpisodeGallery,
     SearchBar
   },
   data () {
     return {
-      // episodes: episodeList.concat(episodeList).concat(episodeList).concat(episodeList),
-      episodes: episodeList,
+      // episodeList: episodeList.concat(episodeList).concat(episodeList).concat(episodeList),
+      episodeList,
       searchText: ''
-    }
-  },
-  computed: {
-    filteredEpisodes() {
-      return this.episodes.filter(episode => episode.title.toLowerCase().includes(this.searchText.toLowerCase()))
     }
   }
 }
 </script>
-
-<style scoped>
-    .cards {
-      padding-top: 50px;
-      display: grid;
-      grid-template-columns: repeat(auto-fill, 300px);
-      grid-auto-rows: auto;
-      grid-gap: 1rem;
-    }
-</style>
