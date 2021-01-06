@@ -1,6 +1,6 @@
 <template>
     <div class="card">
-        <h3 @click="push('/ep/', episode.id)">{{ episode.title }}</h3>
+        <h3 @click="push('/ep/', episode.episodeGlobally)">{{ episode.title }}</h3>
     </div>
 </template>
 
