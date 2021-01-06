@@ -1,5 +1,46 @@
 [
-    { "id": 0, "title": "Episode 1: Pilot" },
-    { "id": 1, "title": "Episode 2: Spanish 101" },
-    { "id": 2, "title": "Episode 3: Introduction to Film" }
+    {
+        "title": "Episode 1: Pilot",
+        "imageUrl": "test.png",
+        "season": 1,
+        "episodeInSeason": 1,
+        "episodeGlobally": 1,
+        "releaseDate": "September 17, 2009",
+        "references": [
+            "The Breakfast Club (movie)",
+            "Dirty Dancing (movie)",
+            "Stripes (movie)",
+            "Meatballs (movie)",
+            "Slumdog Millionaire (movie)",
+            "Radiohead (band)",
+            "Seinfield (show)",
+            "Shark Week (show)"
+        ]
+    },
+    {
+        "title": "Episode 2: Spanish 101",
+        "imageUrl": "test.png",
+        "season": 1,
+        "episodeInSeason": 2,
+        "episodeGlobally": 2,
+        "releaseDate": "September 22, 2009",
+        "references": [
+        ]
+    },
+    {
+        "title": "Episode 3: Pilot",
+        "imageUrl": "test.png",
+        "season": 1,
+        "episodeInSeason": 3,
+        "episodeGlobally": 3,
+        "releaseDate": "October 1, 2009",
+        "references": [
+            "Dead Poets Society (movie)",
+            "Aladdin (movie)",
+            "Citizen Kane (movie)",
+            "Sixteen Candles (movie)",
+            "Ravi Shankar (musician)",
+            "Weezer (band)"
+        ]
+    }
 ]

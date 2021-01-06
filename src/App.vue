@@ -5,9 +5,9 @@
 
     <SearchBar v-model="searchText"/>
 
-    <EpisodeFrame 
+    <EpisodeFrame
       v-for="episode in filteredEpisodes"
-      v-bind:key="episode.id" 
+      v-bind:key="episode.episodeGlobally"
       v-bind:title="episode.title" />
   </div>
 </template>
