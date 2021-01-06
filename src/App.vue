@@ -14,6 +14,8 @@
 import EpisodeFrame from './components/EpisodeFrame.vue'
 import SearchBar from './components/SearchBar.vue'
 
+import episodeList from './assets/episodesList.json'
+
 export default {
   name: 'App',
   components: {
@@ -22,11 +24,7 @@ export default {
   },
   data () {
     return {
-      episodes: [
-        { id: 0, title: 'Episode 1: Pilot' },
-        { id: 1, title: 'Episode 2: Spanish 101' },
-        { id: 2, title: 'Episode 3: Introduction to Film' }
-      ]
+      episodes: episodeList
     }
   }
 }
