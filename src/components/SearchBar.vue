@@ -1,5 +1,8 @@
 <template>
-    <input type="text" placeholder="Search...">
+    <input
+        v-model="text"
+        placeholder="Search..."
+    >
 </template>
 
 <script>
@@ -9,7 +12,7 @@ export default {
 </script>
 
 <style scoped>
-input[type=text] {
+input {
     padding: 6px;
     border: 1em, black;
     margin-top: 8px;

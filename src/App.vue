@@ -2,9 +2,11 @@
   <div>
     <h1>Community References</h1>
     <p>Super-charge your next Community rewatch with every reference from every episode of our favourite NBC sitcom!</p>
-    <SearchBar />
+
+    <SearchBar v-model="searchText"/>
+
     <EpisodeFrame 
-      v-for="episode in episodes" 
+      v-for="episode in filteredEpisodes"
       v-bind:key="episode.id" 
       v-bind:title="episode.title" />
   </div>
@@ -24,7 +26,13 @@ export default {
   },
   data () {
     return {
-      episodes: episodeList
+      episodes: episodeList,
+      searchText: ''
+    }
+  },
+  computed: {
+    filteredEpisodes() {
+      return this.episodes.filter(episode => episode.title.toLowerCase().includes(this.searchText.toLowerCase()))
     }
   }
 }
