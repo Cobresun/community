@@ -1,23 +1,30 @@
 <template>
     <div>
-        <h3>{{ episodes[id] }}</h3>
+        <h1>References in {{ episodeTitle }}</h1>
+        <p v-for="reference in references" v-bind:key="reference" >{{ reference }} </p>
     </div>
 </template>
 
 <script>
-
 import episodes from '../assets/episodesList.json';
-export default{
+
+export default {
     name: 'EpisodePage',
     props: {
-        id:{
-            type: String,
-            required: false
+        id: String
+    },
+    data() {
+        return {
+            episodeTitle: episodes[this.id]["title"]
         }
     },
-    data(){
-        return {
-            episodes: episodes
+    computed: {
+        references() {
+            if (episodes[this.id]["references"].length > 0) {
+                return episodes[this.id]["references"]
+            } else {
+                return ["No references"]
+            }
         }
     }
 }
