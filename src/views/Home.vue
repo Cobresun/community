@@ -1,6 +1,5 @@
 <template>
   <div class="home">
-    <h1>Community References</h1>
     <p>Super-charge your next Community rewatch with every reference from every episode of our favourite NBC sitcom!</p>
 
     <SearchBar v-model="searchText"/>
