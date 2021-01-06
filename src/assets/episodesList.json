@@ -5,7 +5,6 @@
         "season": 1,
         "episodeInSeason": 1,
         "episodeGlobally": 1,
-        "releaseDate": "September 17, 2009",
         "references": [
             { "name": "The Breakfast Club", "type": "movie" },
             { "name": "Dirty Dancing", "type": "movie" },
@@ -13,8 +12,11 @@
             { "name": "Meatballs", "type": "movie" },
             { "name": "Slumdog Millionaire", "type": "movie" },
             { "name": "Radiohead", "type": "music" },
+            { "name": "Daylight - Matt & Kim", "type": "music" },
+            { "name": "Good Ol' Fashion Nightmare - Matt & Kim", "type": "music" },
             { "name": "Seinfield", "type": "show" },
-            { "name": "Shark Week", "type": "show" }
+            { "name": "Shark Week", "type": "show" },
+            { "name": "American Idol", "type": "show" }
         ]
     },
     {
@@ -23,8 +25,11 @@
         "season": 1,
         "episodeInSeason": 2,
         "episodeGlobally": 2,
-        "releaseDate": "September 22, 2009",
         "references": [
+            { "name": "Three Amigos", "type": "movie" },
+            { "name": "Wise Up - Aimee Mann", "type": "music" },
+            { "name": "Daylight - Matt & Kim", "type": "music" },
+            { "name": "Happy Days", "type": "show" }
         ]
     },
     {
@@ -33,14 +38,409 @@
         "season": 1,
         "episodeInSeason": 3,
         "episodeGlobally": 3,
-        "releaseDate": "October 1, 2009",
         "references": [
             { "name": "Dead Poets Society", "type": "movie" },
             { "name": "Aladdin", "type": "movie" },
             { "name": "Citizen Kane", "type": "movie" },
             { "name": "Sixteen Candles", "type": "movie" },
+            { "name": "Good Morning, Vietnam", "type": "movie" },
             { "name": "Ravi Shankar", "type": "music" },
-            { "name": "Weezer", "type": "music" }
+            { "name": "Weezer", "type": "music" },
+            { "name": "American Idol", "type": "show" },
+            { "name": "Mork & Mindy", "type": "show" }
+        ]
+    },
+    {
+        "title": "Social Psychology",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 4,
+        "episodeGlobally": 4,
+        "references": [
+            { "name": "Indiana Jones", "type": "movie" },
+            { "name": "Friends", "type": "show" },
+            { "name": "Inspector Gadget", "type": "show" },
+            { "name": "Degrassi High", "type": "movie" }
+        ]
+    },
+    {
+        "title": "Advanced Criminal Law",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 5,
+        "episodeGlobally": 5,
+        "references": [
+            { "name": "Carlito's Way", "type": "movie" },
+            { "name": "The Cowboy Way", "type": "movie" },
+            { "name": "The Hard Way", "type": "movie" },
+            { "name": "Q&A", "type": "movie" },
+            { "name": "Harold & Kumar", "type": "movie" },
+            { "name": "The Karate Kid", "type": "movie" },
+            { "name": "Harry Potter", "type": "movie" },
+            { "name": "Frost/Nixon", "type": "movie" },
+            { "name": "Cheers", "type": "show" },
+            { "name": "M*A*S*H", "type": "show" },
+            { "name": "Fawlty Towers", "type": "show" },
+            { "name": "She'll Be Coming 'Round the Mountain", "type": "music" },
+            { "name": "The Way It Is - Bruce Hornsby", "type": "music" }
+        ]
+    },
+    {
+        "title": "Football, Feminism and You",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 6,
+        "episodeGlobally": 6,
+        "references": [
+            { "name": "Mad Max Beyond Thunderdome", "type": "movie" },
+            { "name": "The Curious Case of Benjamin Button", "type": "movie" },
+            { "name": "La Bamba", "type": "movie" },
+            { "name": "Moby", "type": "music" },
+            { "name": "Jonny Quest", "type": "show" },
+            { "name": "Rapper's Delight", "type": "music" },
+            { "name": "Poindexter - Donald Glover", "type": "music" }
+        ]
+    },
+    {
+        "title": "Introduction to Statistics",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 7,
+        "episodeGlobally": 7,
+        "references": [
+            { "name": "Van Wilder 2: The Rise of Taj", "type": "movie" },
+            { "name": "The Beastmaster", "type": "movie" },
+            { "name": "The Ugly Truth", "type": "movie" },
+            { "name": "Ghostbusters", "type": "movie" },
+            { "name": "The Dark Knight", "type": "movie" },
+            { "name": "Grumpy Old Men", "type": "movie" },
+            { "name": "Eddie Murphy: Delirious", "type": "movie" },
+            { "name": "Family Matters", "type": "show" },
+            { "name": "Sesame Street", "type": "show" }
+        ]
+    },
+    {
+        "title": "Home Economics",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 8,
+        "episodeGlobally": 8,
+        "references": [
+            { "name": "Overboard", "type": "movie" },
+            { "name": "It Came from Beneath the Sea", "type": "movie" },
+            { "name": "Back to the Future", "type": "movie" },
+            { "name": "Back to the Future Part II", "type": "movie" },
+            { "name": "Stand by Me", "type": "movie" },
+            { "name": "*batteries not included", "type": "movie" },
+            { "name": "Short Circuit 2", "type": "movie" },
+            { "name": "Vibes", "type": "movie" },
+            { "name": "E.T. the Extra-Terrestrial", "type": "movie" },
+            { "name": "Spider-Man 2", "type": "movie" },
+            { "name": "Art Garfunkel", "type": "music" },
+            { "name": "Phil Spector", "type": "music" },
+            { "name": "Gerald McBoing-Boing", "type": "show" },
+            { "name": "Knight Rider", "type": "show" },
+            { "name": "Cop Rock", "type": "show" },
+            { "name": "The Jeffersons", "type": "show" },
+            { "name": "Good Times", "type": "show" },
+            { "name": "M*A*S*H", "type": "show" },
+            { "name": "Garfield", "type": "comic" },
+            { "name": "Michael Richards Laugh Factory Stand-up Routine", "type": "stand up" }
+        ]
+    },
+    {
+        "title": "Debate 109",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 9,
+        "episodeGlobally": 9,
+        "references": [
+            { "name": "Evil Women - ELO", "type": "music" },
+            { "name": "Home - Edward Sharpe and the Magnetic Zeros", "type": "music" },
+            { "name": "L.A. Law", "type": "show" },
+            { "name": "American Idol", "type": "show" },
+            { "name": "iCarly", "type": "show" },
+            { "name": "The Simpsons", "type": "show" },
+            { "name": "The Soup", "type": "show" }
+        ]
+    },
+    {
+        "title": "Environmental Science",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 10,
+        "episodeGlobally": 10,
+        "references": [
+            { "name": "An American Tail", "type": "movie" },
+            { "name": "A Few Good Men", "type": "movie" },
+            { "name": "The Shining", "type": "movie" },
+            { "name": "Choke", "type": "movie" },
+            { "name": "Green Day", "type": "music" },
+            { "name": "Somewhere Out There", "type": "music" },
+            { "name": "Shakira", "type": "music" },
+            { "name": "Tupac Shakur", "type": "music" },
+            { "name": "The View", "type": "show" }
+        ]
+    },
+    {
+        "title": "The Politics of Human Sexuality",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 11,
+        "episodeGlobally": 11,
+        "references": [
+            { "name": "Over the Top", "type": "movie" },
+            { "name": "Porky's", "type": "movie" },
+            { "name": "Harry Potter", "type": "movie" },
+            { "name": "Monty Python", "type": "show" },
+            { "name": "Whistle for the Choir - The Fratellis", "type": "music" },
+            { "name": "Erotica - Madonna", "type": "music" },
+            { "name": "Jay-Z", "type": "music" }
+        ]
+    },
+    {
+        "title": "Comparative Religion",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 12,
+        "episodeGlobally": 12,
+        "references": [
+            { "name": "My Bodyguard", "type": "movie" },
+            { "name": "Meatballs", "type": "movie" },
+            { "name": "Full Metal Jacket", "type": "movie" },
+            { "name": "Breakin'", "type": "movie" },
+            { "name": "National Lampoon's Vacation", "type": "movie" },
+            { "name": "The Breakfast Club", "type": "movie" },
+            { "name": "Edward Scissorhands", "type": "movie" },
+            { "name": "Scrooged", "type": "show" },
+            { "name": "Joy to the World", "type": "music" },
+            { "name": "Silent Night", "type": "music" },
+            { "name": "Jesus is a Friend of Mine", "type": "music" },
+            { "name": "O Christmas Tree", "type": "music" },
+            { "name": "Kiss with a Fist - Florence and the Machines", "type": "music" },
+            { "name": "Merry Happy - Kate Nash", "type": "music" },
+            { "name": "Entourage", "type": "show" },
+            { "name": "The A-Team", "type": "show" },
+            { "name": "Punk'd", "type": "show" }
+        ]
+    },
+    {
+        "title": "Investigative Journalism",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 13,
+        "episodeGlobally": 13,
+        "references": [
+            { "name": "Paul Blart: Mall Cop", "type": "movie" },
+            { "name": "The Hangover", "type": "movie" },
+            { "name": "Toni Braxton", "type": "music" },
+            { "name": "M*A*S*H", "type": "show" },
+            { "name": "The Right Stuff", "type": "book" },
+            { "name": "Heat Vision and Jack", "type": "show" }
+        ]
+    },
+    {
+        "title": "Interpretive Dance",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 14,
+        "episodeGlobally": 14,
+        "references": [
+            { "name": "The Big Lebowski", "type": "movie" },
+            { "name": "Merry Happy - Kate Nash", "type": "music" },
+            { "name": "Spice Girls", "type": "music" },
+            { "name": "Tea For Two - Vincent Youmans", "type": "music" },
+            { "name": "The Smurfs", "type": "show" },
+            { "name": "Care Bears", "type": "show" },
+            { "name": "Dancing with the Stars", "type": "show" }
+        ]
+    },
+    {
+        "title": "Romantic Expressionism",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 15,
+        "episodeGlobally": 15,
+        "references": [
+            { "name": "Runaway", "type": "movie" },
+            { "name": "Juno", "type": "movie" },
+            { "name": "RoboCop", "type": "movie" },
+            { "name": "Red Shoe Diaries", "type": "show" },
+            { "name": "The Brady Bunch", "type": "show" },
+            { "name": "Derrick Comedy", "type": "show" }
+        ]
+    },
+    {
+        "title": "Communication Studies",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 16,
+        "episodeGlobally": 16,
+        "references": [
+            { "name": "Beetlejuice", "type": "movie" },
+            { "name": "The Breakfast Club", "type": "movie" },
+            { "name": "We Are Not Alone - Karla DeVito", "type": "music" },
+            { "name": "Going Crazy - Danica Rozelle", "type": "music" },
+            { "name": "Arrested Development", "type": "show" },
+            { "name": "Who's the Boss?", "type": "show" },
+            { "name": "Friends", "type": "show" },
+            { "name": "Lost", "type": "show" }
+        ]
+    },
+    {
+        "title": "Physical Education",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 17,
+        "episodeGlobally": 17,
+        "references": [
+            { "name": "The Notebook", "type": "movie" },
+            { "name": "Can't Buy Me Love", "type": "movie" },
+            { "name": "Love Don't Cost a Thing", "type": "movie" },
+            { "name": "Boys Don't Cry", "type": "movie" },
+            { "name": "Slumdog Millionaire", "type": "movie" },
+            { "name": "Rain Man", "type": "movie" },
+            { "name": "The Color of Money", "type": "movie" },
+            { "name": "Werewolves of London - Warren Zevon", "type": "music" },
+            { "name": "Scrubs", "type": "show" },
+            { "name": "ABC Afterschool Specials", "type": "show" },
+            { "name": "Fat Albert and the Cosby Kids", "type": "show" },
+            { "name": "Mad Men", "type": "show" },
+            { "name": "The Brady Bunch", "type": "show" },
+            { "name": "The Facts of Life", "type": "show" },
+            { "name": "Sesame Street", "type": "show" },
+            { "name": "Calvin and Hobbes", "type": "comic" }
+        ]
+    },
+    {
+        "title": "Basic Genealogy",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 18,
+        "episodeGlobally": 18,
+        "references": [
+            { "name": "Star Wars", "type": "movie" },
+            { "name": "The Little Mermaid", "type": "movie" }
+        ]
+    },
+    {
+        "title": "Beginner Pottery",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 19,
+        "episodeGlobally": 19,
+        "references": [
+            { "name": "Ghost", "type": "movie" },
+            { "name": "The Fly", "type": "movie" },
+            { "name": "Doc Hollywood", "type": "movie" },
+            { "name": "Titanic", "type": "movie" },
+            { "name": "Midnight Cowboy", "type": "movie" },
+            { "name": "The Perfect Storm", "type": "movie" },
+            { "name": "Arrested Development", "type": "show" },
+            { "name": "Little House on the Prairie", "type": "show" },
+            { "name": "Captain & Tennille", "type": "music" }
+        ]
+    },
+    {
+        "title": "The Science of Illusion",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 20,
+        "episodeGlobally": 20,
+        "references": [
+            { "name": "Hannah Montana", "type": "show" },
+            { "name": "Cagney & Lacey", "type": "show" }
+        ]
+    },
+    {
+        "title": "Contemporary American Poultry",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 21,
+        "episodeGlobally": 21,
+        "references": [
+            { "name": "Predator", "type": "movie" },
+            { "name": "Sixteen Candles", "type": "movie" },
+            { "name": "Short Circuit", "type": "movie" },
+            { "name": "2001: A Space Odyssey", "type": "movie" },
+            { "name": "Goodfellas", "type": "movie" },
+            { "name": "American Gangster", "type": "movie" },
+            { "name": "Mean Streets", "type": "movie" },
+            { "name": "The Godfather", "type": "movie" },
+            { "name": "Shake your Moneymaker - Elmore James", "type": "music" },
+            { "name": "Layla - Derek and the Dominos", "type": "music" },
+            { "name": "ABC's After School Special", "type": "show" },
+            { "name": "Knight Rider", "type": "show" },
+            { "name": "Stargate SG-1", "type": "show" }
+        ]
+    },
+    {
+        "title": "The Art of Discourse",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 22,
+        "episodeGlobally": 22,
+        "references": [
+            { "name": "National Lampoon's Animal House", "type": "movie" },
+            { "name": "The Bucket List", "type": "movie" },
+            { "name": "Sting", "type": "music" },
+            { "name": "Cheers", "type": "show" },
+            { "name": "Seinfeld", "type": "show" },
+            { "name": "Entourage", "type": "show" },
+            { "name": "The Real Housewives", "type": "show" }
+        ]
+    },
+    {
+        "title": "Modern Warfare",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 23,
+        "episodeGlobally": 23,
+        "references": [
+            { "name": "28 Days Later", "type": "movie" },
+            { "name": "The Matrix", "type": "movie" },
+            { "name": "Terminator", "type": "movie" },
+            { "name": "Predator", "type": "movie" },
+            { "name": "Night of the Demon", "type": "movie" },
+            { "name": "The Warriors", "type": "movie" },
+            { "name": "Saving Private Ryan", "type": "movie" },
+            { "name": "Die Hard", "type": "movie" },
+            { "name": "Rambo: First Blood Part II", "type": "movie" },
+            { "name": "Hard Boiled", "type": "movie" },
+            { "name": "Scarface", "type": "movie" },
+            { "name": "Romeo + Juliet", "type": "movie" },
+            { "name": "Vibes", "type": "movie" },
+            { "name": "Friends", "type": "show" },
+            { "name": "Cheers", "type": "show" },
+            { "name": "Entourage", "type": "show" }
+            
+        ]
+    },
+    {
+        "title": "English as a Second Language",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 24,
+        "episodeGlobally": 24,
+        "references": [
+            { "name": "Avatar", "type": "movie" },
+            { "name": "Indiana Jones and the Raiders of the Lost Ark", "type": "movie" },
+            { "name": "Good Will Hunting", "type": "movie" },
+            { "name": "Fletch", "type": "movie" },
+            { "name": "The Wire", "type": "show" }
+        ]
+    },
+    {
+        "title": "Pascal's Triangle Revisited",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 1,
+        "episodeInSeason": 25,
+        "episodeGlobally": 25,
+        "references": [
+            { "name": "Twilight", "type": "movie" },
+            { "name": "Cheers", "type": "show" },
+            { "name": "Lost", "type": "show" },
+            { "name": "Dawson's Creek", "type": "show" }
         ]
     }
 ]
