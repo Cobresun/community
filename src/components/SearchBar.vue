@@ -1,7 +1,7 @@
 <template>
     <input
         v-model="text"
-        placeholder="Search..."
+        placeholder="Search episode or reference"
     >
 </template>
 
