@@ -1,6 +1,6 @@
 <template>
-    <div>
-        <h3 @click="push('/ep/'+(id-1))">{{ title }}</h3>
+    <div class="card">
+        <h3 @click="push('/ep/', episode.id)">{{ episode.title }}</h3>
     </div>
 </template>
 
@@ -9,13 +9,12 @@ import router from '../router'
 export default {
     name: 'EpisodeFrame',
     props: {
-        title: String,
-        id: Number
+        episode: Object
     },
     methods: {
-        push: function (query) {
+        push: function (path, query) {
             router.push({
-                path: query
+                path: path + (query-1)
             });
         }
     }
@@ -23,5 +22,9 @@ export default {
 </script>
 
 <style scoped>
-
+    .card {
+        border: 2px solid #e7e7e7;
+        border-radius: 4px;
+        padding: .5rem;
+    }
 </style>

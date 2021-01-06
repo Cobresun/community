@@ -5,11 +5,12 @@
 
     <SearchBar v-model="searchText"/>
     
-    <EpisodeFrame
-      v-for="episode in filteredEpisodes"
-      v-bind:key="episode.episodeGlobally"
-      v-bind:id="episode.episodeGlobally"
-      v-bind:title="episode.title" />
+    <div class="cards">
+      <EpisodeFrame
+        v-for="episode in filteredEpisodes"
+        v-bind:key="episode.episodeGlobally"
+        v-bind:episode="episode"/>
+    </div>
   </div>
 </template>
 
@@ -27,6 +28,7 @@ export default {
   },
   data () {
     return {
+      // episodes: episodeList.concat(episodeList).concat(episodeList).concat(episodeList),
       episodes: episodeList,
       searchText: ''
     }
@@ -38,3 +40,13 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+    .cards {
+      padding-top: 50px;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, 300px);
+      grid-auto-rows: auto;
+      grid-gap: 1rem;
+    }
+</style>
