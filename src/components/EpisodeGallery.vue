@@ -21,7 +21,10 @@ export default {
     },
     computed: {
         filteredEpisodes() {
-            return this.episodeList.filter(episode => episode.title.toLowerCase().includes(this.searchText.toLowerCase()))
+            return this.episodeList.filter(episode =>
+                episode.title.toLowerCase().includes(this.searchText.toLowerCase())
+                || episode.references.some(ref => ref.toLowerCase().includes(this.searchText.toLowerCase()))
+            )
         }
     }
 }
