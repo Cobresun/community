@@ -7,14 +7,14 @@
         "episodeGlobally": 1,
         "releaseDate": "September 17, 2009",
         "references": [
-            "The Breakfast Club (movie)",
-            "Dirty Dancing (movie)",
-            "Stripes (movie)",
-            "Meatballs (movie)",
-            "Slumdog Millionaire (movie)",
-            "Radiohead (band)",
-            "Seinfield (show)",
-            "Shark Week (show)"
+            { "name": "The Breakfast Club", "type": "movie" },
+            { "name": "Dirty Dancing", "type": "movie" },
+            { "name": "Stripes", "type": "movie" },
+            { "name": "Meatballs", "type": "movie" },
+            { "name": "Slumdog Millionaire", "type": "movie" },
+            { "name": "Radiohead", "type": "music" },
+            { "name": "Seinfield", "type": "show" },
+            { "name": "Shark Week", "type": "show" }
         ]
     },
     {
@@ -35,12 +35,12 @@
         "episodeGlobally": 3,
         "releaseDate": "October 1, 2009",
         "references": [
-            "Dead Poets Society (movie)",
-            "Aladdin (movie)",
-            "Citizen Kane (movie)",
-            "Sixteen Candles (movie)",
-            "Ravi Shankar (musician)",
-            "Weezer (band)"
+            { "name": "Dead Poets Society", "type": "movie" },
+            { "name": "Aladdin", "type": "movie" },
+            { "name": "Citizen Kane", "type": "movie" },
+            { "name": "Sixteen Candles", "type": "movie" },
+            { "name": "Ravi Shankar", "type": "music" },
+            { "name": "Weezer", "type": "music" }
         ]
     }
 ]

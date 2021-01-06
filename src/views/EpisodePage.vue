@@ -1,7 +1,7 @@
 <template>
     <div>
         <h3>References in {{ episodeTitle }}</h3>
-        <p v-for="reference in references" v-bind:key="reference" >{{ reference }} </p>
+        <p v-for="reference in references" v-bind:key="reference" >{{ reference.name }} </p>
     </div>
 </template>
 
