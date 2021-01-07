@@ -841,5 +841,336 @@
             { "name": "Platoon", "type": "movie" },
             { "name": "The Little Rascals", "type": "movie" }
         ]
+    },
+    {
+        "title": "Biology 101",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 1,
+        "episodeGlobally": 50,
+        "references": [
+            { "name": "2001: A Space Odyssey", "type": "movie" },
+            { "name": "Milk (2008)", "type": "movie" },
+            { "name": "The Remains of the Day", "type": "movie" },
+            { "name": "The Green Mile", "type": "movie" },
+            { "name": "Operation Dumbo Drop", "type": "movie" },
+            { "name": "The Machinist", "type": "movie" },
+            { "name": "National Lampoon", "type": "movie" },
+            { "name": "N'Sync", "type": "music" },
+            { "name": "Cougar Town", "type": "show" },
+            { "name": "Downton Abbey", "type": "show" },
+            { "name": "Breaking Bad", "type": "show" },
+            { "name": "Doctor Who", "type": "show" },
+            { "name": "Batman", "type": "comic" }
+        ]
+    },
+    {
+        "title": "Geography of Global Conflict",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 2,
+        "episodeGlobally": 51,
+        "references": [
+            { "name": "Spartacus", "type": "movie" },
+            { "name": "Ace Ventura: When Nature Calls", "type": "movie" },
+            { "name": "Hello - Lionel Richie", "type": "music" },
+            { "name": "Fringe", "type": "show" },
+            { "name": "Party Down", "type": "show" }
+        ]
+    },
+    {
+        "title": "Competitive Ecology",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 3,
+        "episodeGlobally": 52,
+        "references": [
+            { "name": "Harry Potter", "type": "movie" },
+            { "name": "Star Wars", "type": "movie" },
+            { "name": "Breaking Bad", "type": "show" }
+        ]
+    },
+    {
+        "title": "Remedial Chaos Theory",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 4,
+        "episodeGlobally": 53,
+        "references": [
+            { "name": "Indiana Jones", "type": "movie" },
+            { "name": "Four Rooms", "type": "movie" },
+            { "name": "Roxanne - The Police", "type": "music" },
+            { "name": "Star Trek", "type": "show" }
+        ]
+    },
+    {
+        "title": "Horror Fiction in Seven Spooky Steps",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 5,
+        "episodeGlobally": 54,
+        "references": [
+            { "name": "Fast & Furious", "type": "movie" },
+            { "name": "War and Peace", "type": "book" }
+        ]
+    },
+    {
+        "title": "Advanced Gay",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 6,
+        "episodeGlobally": 55,
+        "references": [
+            { "name": "Tron", "type": "movie" },
+            { "name": "The Matrix Reloaded", "type": "movie" }
+        ]
+    },
+    {
+        "title": "Studies in Modern Movement",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 7,
+        "episodeGlobally": 56,
+        "references": [
+            { "name": "Airplane!", "type": "movie" },
+            { "name": "Kiss From a Rose - Seal", "type": "music" },
+            { "name": "The Jeffersons", "type": "show" },
+            { "name": "Friends", "type": "show" }
+        ]
+    },
+    {
+        "title": "Documentary Filmmaking: Redux",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 8,
+        "episodeGlobally": 57,
+        "references": [
+            { "name": "Hearts of Darkness: A Filmmaker's Apocalypse", "type": "movie" },
+            { "name": "Apocalypse Now", "type": "movie" },
+            { "name": "Boogie Nights", "type": "movie" },
+            { "name": "The Godfather", "type": "movie" }
+        ]
+    },
+    {
+        "title": "Foosball and Nocturnal Vigilantism",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 9,
+        "episodeGlobally": 58,
+        "references": [
+            { "name": "Das Boot", "type": "movie" },
+            { "name": "The Dark Knight", "type": "movie" },
+            { "name": "Quantum Leap", "type": "show" }
+        ]
+    },
+    {
+        "title": "Regional Holiday Music",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 10,
+        "episodeGlobally": 59,
+        "references": [
+            { "name": "Invasion of the Body Snatchers", "type": "movie" },
+            { "name": "Gremlins", "type": "movie" },
+            { "name": "Staying Alive", "type": "movie" },
+            { "name": "Doris Day", "type": "music" },
+            { "name": "The Beatles", "type": "music" },
+            { "name": "Elvis Presley", "type": "music" },
+            { "name": "Bob Dylan", "type": "music" },
+            { "name": "Hanson", "type": "music" },
+            { "name": "Marilyn Manson", "type": "music" },
+            { "name": "Glee", "type": "show" },
+            { "name": "Twin Peaks", "type": "show" },
+            { "name": "Star Wars Holiday Special", "type": "show" }
+        ]
+    },
+    {
+        "title": "Urban Matrimony and the Sandwich Arts",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 11,
+        "episodeGlobally": 60,
+        "references": [
+            { "name": "National Lampoon's Vegas Vacation", "type": "movie" },
+            { "name": "Jack and Jill", "type": "movie" },
+            { "name": "Chuck", "type": "show" },
+            { "name": "Superman", "type": "comic" },
+            { "name": "The Stepford Wives", "type": "book" }
+
+        ]
+    },
+    {
+        "title": "Contemporary Impressionists",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 12,
+        "episodeGlobally": 61,
+        "references": [
+            { "name": "The Fugitive", "type": "movie" },
+            { "name": "Pretty Woman", "type": "movie" },
+            { "name": "Blade Runner", "type": "movie" },
+            { "name": "Patton", "type": "movie" },
+            { "name": "Precious", "type": "movie" },
+            { "name": "Castaway", "type": "movie" },
+            { "name": "Lorenzo's Oil", "type": "movie" },
+            { "name": "Patch Adams", "type": "movie" },
+            { "name": "The Incredible Hulk", "type": "show" },
+            { "name": "Push", "type": "book" }
+        ]
+    },
+    {
+        "title": "Digital Exploration of Interior Design",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 13,
+        "episodeGlobally": 62,
+        "references": [
+            { "name": "Casino", "type": "movie" },
+            { "name": "The Conversation", "type": "movie" },
+            { "name": "Nineteen Eighty-Four", "type": "book" }
+        ]
+    },
+    {
+        "title": "Pillows and Blankets",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 14,
+        "episodeGlobally": 63,
+        "references": [
+            { "name": "Ken Burns Documentaries", "type": "movie" },
+            { "name": "Good Will Hunting", "type": "movie" },
+            { "name": "Rambo", "type": "movie" },
+            { "name": "Fletch", "type": "movie" },
+            { "name": "Inglourious Basterds", "type": "movie" },
+            { "name": "Do the Right Thing", "type": "movie" },
+            { "name": "The Cape", "type": "movie" },
+            { "name": "Ferris Bueller's Day Off", "type": "movie" }
+        ]
+    },
+    {
+        "title": "Origins of Vampire Mythology",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 15,
+        "episodeGlobally": 64,
+        "references": [
+            { "name": "Blade", "type": "movie" },
+            { "name": "When Harry Met Sally...", "type": "movie" },
+            { "name": "Charlie St. Cloud", "type": "movie" },
+            { "name": "Batman", "type": "comic" }
+        ]
+    },
+    {
+        "title": "Virtual Systems Analysis",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 16,
+        "episodeGlobally": 65,
+        "references": [
+            { "name": "Die Hard", "type": "movie" },
+            { "name": "2001: A Space Odyssey", "type": "movie" },
+            { "name": "Inception", "type": "movie" },
+            { "name": "About a Boy", "type": "movie" },
+            { "name": "Star Wars", "type": "movie" },
+            { "name": "Zardoz", "type": "movie" },
+            { "name": "Cougar Town", "type": "show" },
+            { "name": "Star Trek", "type": "show" },
+            { "name": "Doctor Who", "type": "show" },
+            { "name": "ER", "type": "show" },
+            { "name": "Grey's Anatomy", "type": "show" }
+        ]
+    },
+    {
+        "title": "Virtual Systems Analysis",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 17,
+        "episodeGlobally": 66,
+        "references": [
+            { "name": "Mama's Family", "type": "show" },
+            { "name": "Law & Order", "type": "show" },
+            { "name": "The Wire", "type": "show" }
+        ]
+    },
+    {
+        "title": "Course Listing Unavailable",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 18,
+        "episodeGlobally": 67,
+        "references": [
+            { "name": "Kill Bill: Volume 2", "type": "movie" },
+            { "name": "Aladdin", "type": "movie" },
+            { "name": "Ave Maria", "type": "music" },
+            { "name": "Helter Skelter - The Beatles", "type": "music" },
+            { "name": "Transformers", "type": "show" }
+        ]
+    },
+    {
+        "title": "Curriculum Unavailable",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 19,
+        "episodeGlobally": 68,
+        "references": [
+            { "name": "Pulp Fiction", "type": "movie" },
+            { "name": "Minority Report", "type": "movie" },
+            { "name": "Shutter Island", "type": "movie" },
+            { "name": "Tower Heist", "type": "movie" },
+            { "name": "Star Wars", "type": "movie" },
+            { "name": "Chicago", "type": "musical" },
+            { "name": "Star Trek", "type": "show" },
+            { "name": "Antiques Roadshow", "type": "show" },
+            { "name": "Lost", "type": "show" }
+        ]
+    },
+    {
+        "title": "Digital Estate Planning",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 20,
+        "episodeGlobally": 69,
+        "references": [
+            { "name": "The Wizard of Oz", "type": "movie" },
+            { "name": "Dr. Strangelove", "type": "movie" },
+            { "name": "Breaking Bad", "type": "show" },
+            { "name": "Reading Rainbow", "type": "show" },
+            { "name": "Bible", "type": "book" }
+        ]
+    },
+    {
+        "title": "The First Chang Dynasty",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 21,
+        "episodeGlobally": 70,
+        "references": [
+            { "name": "Ocean's Eleven", "type": "movie" },
+            { "name": "Blade", "type": "movie" },
+            { "name": "Star Wars", "type": "movie" },
+            { "name": "Don't Look Now", "type": "movie" },
+            { "name": "Lost in Translation", "type": "movie" }
+        ]
+    },
+    {
+        "title": "Introduction to Finality",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 3,
+        "episodeInSeason": 22,
+        "episodeGlobally": 71,
+        "references": [
+            { "name": "The Chronicles of Riddick", "type": "movie" },
+            { "name": "RoboCop 2", "type": "movie" },
+            { "name": "Terminator", "type": "movie" },
+            { "name": "Mad Max", "type": "movie" },
+            { "name": "Back to the Future Part III", "type": "movie" },
+            { "name": "Driving Miss Daisy", "type": "movie" },
+            { "name": "Full Metal Jacket", "type": "movie" },
+            { "name": "Tango & Cash", "type": "movie" },
+            { "name": "Butch Cassidy and the Sundance Kid", "type": "movie" },
+            { "name": "The Silence of the Lambs", "type": "movie" },
+            { "name": "Dance Moms", "type": "show" },
+            { "name": "Sabrina the Teenage Witch", "type": "show" }
+        ]
     }
 ]
