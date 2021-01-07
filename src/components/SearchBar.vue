@@ -2,6 +2,7 @@
     <input
         v-model="text"
         v-on:input="changeText"
+        v-on:keyup="searchKeyPress"
         placeholder="Search episode or reference"
     >
 </template>
@@ -16,6 +17,11 @@ export default {
         changeText: function (){
             store.commit('changeSearch', this.text);
             router.push("/");
+        },
+        searchKeyPress: function(e){
+            if (e.keyCode === 13) {
+                router.push("/");
+            }
         }
     }
 }
