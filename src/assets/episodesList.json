@@ -1560,5 +1560,222 @@
             { "name": "The Office", "type": "movie" },
             { "name": "Thundercats", "type": "movie" }
         ]
+    },
+    {
+        "title": "Ladders",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 6,
+        "episodeInSeason": 1,
+        "episodeGlobally": 98,
+        "references": [
+            { "name": "Miller's Crossing", "type": "movie" },
+            { "name": "Blade Runner", "type": "movie" },
+            { "name": "Ghostbusters", "type": "movie" },
+            { "name": "Children of a Lesser God", "type": "movie" },
+            { "name": "Fatboy Slim", "type": "music" },
+            { "name": "Trent Reznor", "type": "music" },
+            { "name": "Johnny Cash", "type": "music" },
+            { "name": "Sweet Emotion - Aerosmith", "type": "music" },
+            { "name": "How You've Grown - 10,000 Maniacs", "type": "music" },
+            { "name": "Secret Lullabies - Daniel Holter & Matt Smith", "type": "music" }
+        ]
+    },
+    {
+        "title": "Lawnmower Maintenance and Postnatal Care",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 6,
+        "episodeInSeason": 2,
+        "episodeGlobally": 99,
+        "references": [
+            { "name": "The Lawnmower Man", "type": "movie" },
+            { "name": "Disclosure", "type": "movie" },
+            { "name": "The Matrix", "type": "movie" },
+            { "name": "Clue", "type": "movie" }
+        ]
+    },
+    {
+        "title": "Basic Crisis Room Decorum",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 6,
+        "episodeInSeason": 3,
+        "episodeGlobally": 100,
+        "references": [
+            { "name": "Debbie Does Dallas", "type": "movie" },
+            { "name": "The Fountainhead", "type": "book" }
+        ]
+    },
+    {
+        "title": "Queer Studies & Advanced Waxing",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 6,
+        "episodeInSeason": 4,
+        "episodeGlobally": 101,
+        "references": [
+            { "name": "The Karate Kid", "type": "movie" },
+            { "name": "Whiplash", "type": "movie" },
+            { "name": "The Butterfly Effect", "type": "movie" },
+            { "name": "Jolene - Dolly Parton", "type": "music" },
+            { "name": "Hollywood Squares", "type": "show" },
+            { "name": "Welcome back Kotter", "type": "show" },
+            { "name": "Slaughterhouse Five", "type": "book" },
+            { "name": "Slapstick", "type": "book" }
+        ]
+    },
+    {
+        "title": "Laws of Robotics & Party Rights",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 6,
+        "episodeInSeason": 5,
+        "episodeGlobally": 102,
+        "references": [
+            { "name": "Ghostbusters", "type": "movie" },
+            { "name": "Godzilla", "type": "movie" },
+            { "name": "An Officer and a Gentleman", "type": "movie" },
+            { "name": "Can't Hardly Wait", "type": "movie" },
+            { "name": "Risky Business", "type": "movie" },
+            { "name": "The Thing", "type": "movie" },
+            { "name": "They Live", "type": "movie" },
+            { "name": "Planet Earth", "type": "show" },
+            { "name": "30 Rock", "type": "show" },
+            { "name": "Hitchhiker's Guide to the Galaxy", "type": "book" }
+        ]
+    },
+    {
+        "title": "Basic Email Security",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 6,
+        "episodeInSeason": 6,
+        "episodeGlobally": 103,
+        "references": [
+            { "name": "The Interview", "type": "movie" },
+            { "name": "Mad Max 2", "type": "movie" },
+            { "name": "Donnie Darko", "type": "movie" },
+            { "name": "Platoon", "type": "movie" },
+            { "name": "True Detective", "type": "show" },
+            { "name": "West Side Story", "type": "play" }
+        ]
+    },
+    {
+        "title": "Advanced Safety Features",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 6,
+        "episodeInSeason": 7,
+        "episodeGlobally": 104,
+        "references": [
+            { "name": "Avatar", "type": "movie" },
+            { "name": "The Aviator", "type": "movie" },
+            { "name": "Chariots of Fire", "type": "movie" }
+        ]
+    },
+    {
+        "title": "Intro to Recycled Cinema",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 6,
+        "episodeInSeason": 8,
+        "episodeGlobally": 105,
+        "references": [
+            { "name": "American Graffiti", "type": "movie" },
+            { "name": "The Elephant Man", "type": "movie" },
+            { "name": "Four Rooms", "type": "movie" },
+            { "name": "2001: A Space Odyssey", "type": "movie" },
+            { "name": "Guardians of the Galaxy", "type": "movie" },
+            { "name": "Star Wars Episode IV: A New Hope", "type": "movie" },
+            { "name": "Plan 9 from Outer Space", "type": "movie" },
+            { "name": "A Few Good Men", "type": "movie" },
+            { "name": "Indiana Jones and the Raiders of the Lost Ark", "type": "movie" },
+            { "name": "Parks and Recreation", "type": "show" },
+            { "name": "Doctor Who", "type": "show" },
+            { "name": "The Big Bang Theory", "type": "show" },
+            { "name": "Rick and Morty", "type": "show" }
+        ]
+    },
+    {
+        "title": "Grifting 101",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 6,
+        "episodeInSeason": 9,
+        "episodeGlobally": 106,
+        "references": [
+            { "name": "The Sting", "type": "movie" },
+            { "name": "Matchstick Men", "type": "movie" },
+            { "name": "Sting", "type": "music" },
+            { "name": "Because the Internet - Childish Gambino", "type": "music" },
+            { "name": "Empire", "type": "show" },
+            { "name": "The Equalizer", "type": "show" }
+        ]
+    },
+    {
+        "title": "Basic RV Repair and Palmistry",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 6,
+        "episodeInSeason": 10,
+        "episodeGlobally": 107,
+        "references": [
+            { "name": "Hotel Rwanda", "type": "movie" },
+            { "name": "Dracula", "type": "movie" },
+            { "name": "Inception", "type": "movie" },
+            { "name": "Interstellar", "type": "movie" },
+            { "name": "The Adventures of Priscilla, Queen of the Desert", "type": "movie" },
+            { "name": "Star Wars: Episode VI – Return of the Jedi", "type": "movie" },
+            { "name": "Wheel of Fortune", "type": "show" },
+            { "name": "Kid 'n Play", "type": "music" }
+        ]
+    },
+    {
+        "title": "Modern Espionage",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 6,
+        "episodeInSeason": 11,
+        "episodeGlobally": 108,
+        "references": [
+            { "name": "Captain America: The Winter Soldier", "type": "movie" },
+            { "name": "Die Hard with a Vengeance", "type": "movie" },
+            { "name": "Mr. & Mrs. Smith", "type": "movie" },
+            { "name": "Reservoir Dogs", "type": "movie" },
+            { "name": "The Bourne Identity", "type": "movie" },
+            { "name": "Mission: Impossible", "type": "movie" },
+            { "name": "Highlander", "type": "movie" },
+            { "name": "Iron Man", "type": "movie" },
+            { "name": "Fight Club", "type": "movie" },
+            { "name": "The Dark Knight", "type": "movie" },
+            { "name": "Batman Forever", "type": "movie" },
+            { "name": "Batman", "type": "movie" },
+            { "name": "Batman & Robin", "type": "movie" },
+            { "name": "Batman", "type": "show" },
+            { "name": "Batman: The Brave and the Bold", "type": "show" }
+        ]
+    },
+    {
+        "title": "Wedding Videography",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 6,
+        "episodeInSeason": 12,
+        "episodeGlobally": 109,
+        "references": [
+            { "name": "The Office", "type": "show" },
+            { "name": "Twin Peaks", "type": "show" },
+            { "name": "Rick and Morty", "type": "show" }
+        ]
+    },
+    {
+        "title": "Emotional Consequences of Broadcast Television",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 6,
+        "episodeInSeason": 13,
+        "episodeGlobally": 110,
+        "references": [
+            { "name": "MCU Films", "type": "movie" },
+            { "name": "The Big Bang Theory", "type": "show" },
+            { "name": "Two and a Half Men", "type": "show" },
+            { "name": "The Simpsons", "type": "show" },
+            { "name": "Seinfeld", "type": "show" },
+            { "name": "South Park", "type": "show" },
+            { "name": "Friends", "type": "show" },
+            { "name": "30 Rock", "type": "show" },
+            { "name": "The IT Crowd", "type": "show" },
+            { "name": "St. Elsewhere", "type": "show" },
+            { "name": "Greg the Bunny", "type": "show" },
+            { "name": "Ends of the Earth - Lord Huron", "type": "music" }
+        ]
     }
 ]
