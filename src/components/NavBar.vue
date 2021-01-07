@@ -41,10 +41,7 @@ export default {
 </script>
 
 <style scoped>
-body {margin:0;}
-
 #search {
-    display: inline-block;
     width: 80%;
     float: left;
 }
