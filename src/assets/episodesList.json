@@ -235,8 +235,8 @@
             { "name": "The Hangover", "type": "movie" },
             { "name": "Toni Braxton", "type": "music" },
             { "name": "M*A*S*H", "type": "show" },
-            { "name": "The Right Stuff", "type": "book" },
-            { "name": "Heat Vision and Jack", "type": "show" }
+            { "name": "Heat Vision and Jack", "type": "show" },
+            { "name": "The Right Stuff", "type": "book" }
         ]
     },
     {
@@ -441,6 +441,405 @@
             { "name": "Cheers", "type": "show" },
             { "name": "Lost", "type": "show" },
             { "name": "Dawson's Creek", "type": "show" }
+        ]
+    },
+    {
+        "title": "Anthropology 101",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 1,
+        "episodeGlobally": 26,
+        "references": [
+            { "name": "Toy Story 3", "type": "movie" },
+            { "name": "Shaft", "type": "movie" },
+            { "name": "Dolemite", "type": "movie" },
+            { "name": "Batman & Robin", "type": "movie" },
+            { "name": "Star Wars Episode V: The Empire Strikes Back", "type": "movie" },
+            { "name": "The Lord of the Rings: The Two Towers", "type": "movie" },
+            { "name": "Linger - The Cranberries", "type": "music" },
+            { "name": "Africa - Toto", "type": "music" },
+            { "name": "Bad Bad Leroy Brown - Jim Croce", "type": "music" },
+            { "name": "A Different World", "type": "show" },
+            { "name": "$h*! My Dad Says", "type": "show" },
+            { "name": "Batman", "type": "comics" },
+            { "name": "Twilight", "type": "book" },
+            { "name": "Cosmopolitan", "type": "magazine" },
+            { "name": "National Review", "type": "magazine" }
+        ]
+    },
+    {
+        "title": "Accounting for Lawyers",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 2,
+        "episodeGlobally": 27,
+        "references": [
+            { "name": "Bad Influence", "type": "movie" },
+            { "name": "Tango & Cash", "type": "movie" },
+            { "name": "Butch Cassidy and the Sundance Kid", "type": "movie" },
+            { "name": "The Beach", "type": "movie" },
+            { "name": "The Flower Duet - Léo Delibes", "type": "music" },
+            { "name": "No Parking (On the Dance Floor - Midnight Star", "type": "music" },
+            { "name": "Smash Mouth", "type": "music" },
+            { "name": "Yo Gabba Gabba!", "type": "show" }
+        ]
+    },
+    {
+        "title": "The Psychology of Letting Go",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 3,
+        "episodeGlobally": 28,
+        "references": [
+            { "name": "The Abyss", "type": "movie" },
+            { "name": "Indiana Jones and the Temple of Doom", "type": "movie" },
+            { "name": "Inception", "type": "movie" },
+            { "name": "The Beach", "type": "movie" },
+            { "name": "Best of the Best - Jacques Slade/Kustoo", "type": "music" },
+            { "name": "The End of Evangelion", "type": "anime" },
+            { "name": "Running Wilde", "type": "show" }
+        ]
+    },
+    {
+        "title": "Basic Rocket Science",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 4,
+        "episodeGlobally": 29,
+        "references": [
+            { "name": "Scary Movie", "type": "movie" },
+            { "name": "Star Wars", "type": "movie" },
+            { "name": "Back to the Future", "type": "movie" },
+            { "name": "Apollo 13", "type": "movie" },
+            { "name": "The Right Stuff", "type": "movie" },
+            { "name": "Deep Impact", "type": "movie" },
+            { "name": "Armageddon", "type": "movie" },
+            { "name": "The Last Starfighter", "type": "movie" },
+            { "name": "Buffy the Vampire Slayer", "type": "show" },
+            { "name": "Breakfast of Champions", "type": "book" }
+        ]
+    },
+    {
+        "title": "Messianic Myths and Ancient Peoples",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 5,
+        "episodeGlobally": 30,
+        "references": [
+            { "name": "I Am Legend", "type": "movie" },
+            { "name": "The Matrix", "type": "movie" },
+            { "name": "RoboCop", "type": "movie" },
+            { "name": "Superman Returns", "type": "movie" },
+            { "name": "Star Trek II: The Wrath of Khan", "type": "movie" },
+            { "name": "Snakes on a Plane", "type": "movie" },
+            { "name": "Adaptation", "type": "movie" },
+            { "name": "Bible", "type": "book" }
+        ]
+    },
+    {
+        "title": "Epidemiology",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 6,
+        "episodeGlobally": 31,
+        "references": [
+            { "name": "Star Wars Episode V: The Empire Strikes Back", "type": "movie" },
+            { "name": "Dancing Queen - ABBA", "type": "music" },
+            { "name": "SOS - ABBA", "type": "music" },
+            { "name": "Gimme, Gimme, Gimme (A Man After Midnight) - ABBA", "type": "music" },
+            { "name": "Fernando - ABBA", "type": "music" },
+            { "name": "911 Is a Joke - Public Enemy", "type": "music" },
+            { "name": "The Oscars", "type": "show" },
+            { "name": "Star Trek", "type": "show" }
+        ]
+    },
+    {
+        "title": "Aerodynamics of Gender",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 7,
+        "episodeGlobally": 32,
+        "references": [
+            { "name": "RoboCop", "type": "movie" },
+            { "name": "American History X", "type": "movie" },
+            { "name": "Stay Cool", "type": "movie" },
+            { "name": "Cougar Town", "type": "show" },
+            { "name": "Drake and Josh", "type": "show" },
+            { "name": "The Secret Garden", "type": "book" },
+            { "name": "The Lion, the Witch and the Wardrobe", "type": "book" }
+        ]
+    },
+    {
+        "title": "Cooperative Calligraphy",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 8,
+        "episodeGlobally": 33,
+        "references": [
+            { "name": "Paranormal Activity", "type": "movie" },
+            { "name": "Welcome To The Machine - Pink Floyd", "type": "music" },
+            { "name": "The Benny Hill Show", "type": "show" },
+            { "name": "Nineteen Eighty-Four", "type": "book" }
+        ]
+    },
+    {
+        "title": "Conspiracy Theories and Interior Design",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 9,
+        "episodeGlobally": 34,
+        "references": [
+            { "name": "The Manchurian Candidate", "type": "movie" },
+            { "name": "Enemy of the State", "type": "movie" },
+            { "name": "National Treasure", "type": "movie" },
+            { "name": "Pulp Fiction", "type": "movie" },
+            { "name": "Eyes Wide Shut", "type": "movie" },
+            { "name": "Janie's Got a Gun - Aerosmith", "type": "music" },
+            { "name": "Annie Get Your Gun", "type": "musical" },
+            { "name": "The Mentalist", "type": "show" },
+            { "name": "Cougar Town", "type": "show" },
+            { "name": "Nancy Drew", "type": "book" },
+            { "name": "Macbeth", "type": "play" }
+        ]
+    },
+    {
+        "title": "Mixology Certification",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 10,
+        "episodeGlobally": 35,
+        "references": [
+            { "name": "Dead Poets Society", "type": "movie" },
+            { "name": "Lifetime Movies", "type": "movie" },
+            { "name": "The Last Starfighter", "type": "movie" },
+            { "name": "Phish", "type": "music" },
+            { "name": "Farscape", "type": "show" },
+            { "name": "Stargate SG-1", "type": "show" }
+        ]
+    },
+    {
+        "title": "Abed's Uncontrollable Christmas",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 11,
+        "episodeGlobally": 36,
+        "references": [
+            { "name": "Willy Wonka & the Chocolate Factory", "type": "movie" },
+            { "name": "Lost", "type": "show" }
+        ]
+    },
+    {
+        "title": "Asian Population Studies",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 12,
+        "episodeGlobally": 37,
+        "references": [
+            { "name": "Star Wars", "type": "movie" },
+            { "name": "The Natural", "type": "movie" },
+            { "name": "Running Though Raining - Ludwig Göransson", "type": "music" },
+            { "name": "Red Hot Chili Peppers", "type": "music" },
+            { "name": "The Transformers", "type": "show" },
+            { "name": "The Cosby Show", "type": "show" },
+            { "name": "Joanie Loves Chachi", "type": "show" },
+            { "name": "The Lion, the Witch and the Wardrobe", "type": "book" }
+        ]
+    },
+    {
+        "title": "Celebrity Pharmacology 212",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 13,
+        "episodeGlobally": 38,
+        "references": [
+            { "name": "The Killer Bees Sketches - SNL", "type": "show" },
+            { "name": "Scooby-Doo! Mystery Incorporated", "type": "show" }
+            
+        ]
+    },
+    {
+        "title": "Advanced Dungeons & Dragons",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 14,
+        "episodeGlobally": 39,
+        "references": [
+            { "name": "The Lord of the Rings: The Fellowship of the Ring", "type": "movie" },
+            { "name": "Dungeons & Dragons", "type": "game" },
+            { "name": "Jenga", "type": "game" },
+            { "name": "Chutes & Ladders", "type": "game" }
+            
+        ]
+    },
+    {
+        "title": "Early 21st Century Romanticism",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 15,
+        "episodeGlobally": 40,
+        "references": [
+            { "name": "Saw", "type": "movie" },
+            { "name": "Fancy Footwork - Chromeo", "type": "music" },
+            { "name": "The Barenaked Ladies", "type": "music" },
+            { "name": "The Life and Adventures of Nicholas Nickleby", "type": "book" }
+            
+        ]
+    },
+    {
+        "title": "Intermediate Documentary Filmmaking",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 16,
+        "episodeGlobally": 41,
+        "references": [
+            { "name": "A Few Good Men", "type": "movie" },
+            { "name": "Critters 3", "type": "movie" },
+            { "name": "Surrogates", "type": "movie" },
+            { "name": "Ferris Bueller's Day Off", "type": "movie" },
+            { "name": "The Parent Trap", "type": "movie" },
+            { "name": "F/X", "type": "movie" },
+            { "name": "F/X2", "type": "movie" },
+            { "name": "James Bond", "type": "movie" },
+            { "name": "Oingo Boingo", "type": "music" },
+            { "name": "Reading Rainbow", "type": "show" },
+            { "name": "Star Trek: The Next Generation", "type": "show" },
+            { "name": "Firefly", "type": "show" },
+            { "name": "Rebop", "type": "show" },
+            { "name": "Three's Company", "type": "show" },
+            { "name": "The Simpsons", "type": "show" },
+            { "name": "Roots", "type": "show" },
+            { "name": "The Office", "type": "show" },
+            { "name": "John Grisham Books", "type": "book" },
+            { "name": "Do not go gentle into that good night", "type": "poem" } 
+        ]
+    },
+    {
+        "title": "Intro to Political Science",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 17,
+        "episodeGlobally": 42,
+        "references": [
+            { "name": "The Last Airbender", "type": "movie" },
+            { "name": "Election", "type": "movie" },
+            { "name": "Barenaked Ladies", "type": "music" },
+            { "name": "Faith - George Michael", "type": "music" },
+            { "name": "The Last Airbender", "type": "show" },
+            { "name": "South Park", "type": "show" },
+            { "name": "The Real World", "type": "show" }
+        ]
+    },
+    {
+        "title": "Custody Law and Eastern European Diplomacy",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 18,
+        "episodeGlobally": 43,
+        "references": [
+            { "name": "Jurassic Park", "type": "movie" },
+            { "name": "It's Complicated", "type": "movie" },
+            { "name": "Catfish", "type": "movie" },
+            { "name": "...Baby One More Time - Britney Spears", "type": "music" },
+            { "name": "Genie in a Bottle - Christina Aguilera", "type": "music" },
+            { "name": "Bones", "type": "show" },
+            { "name": "Star Trek", "type": "show" }
+        ]
+    },
+    {
+        "title": "Critical Film Studies",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 19,
+        "episodeGlobally": 44,
+        "references": [
+            { "name": "Pulp Fiction", "type": "movie" },
+            { "name": "My Dinner with Andre", "type": "movie" },
+            { "name": "Kill Bill", "type": "movie" },
+            { "name": "Short Circuit", "type": "movie" },
+            { "name": "2001: A Space Odyssey", "type": "movie" },
+            { "name": "Cougar Town", "type": "show" },
+            { "name": "Mister Rogers' Neighborhood", "type": "show" },
+            { "name": "Fraiser", "type": "show" },
+            { "name": "Star Trek", "type": "show" },
+            { "name": "Mork & Mindy", "type": "show" },
+            { "name": "Knight Rider", "type": "show" },
+            { "name": "Doctor Who", "type": "show" },
+            { "name": "Peanuts", "type": "comic" }
+        ]
+    },
+    {
+        "title": "Competitive Wine Tasting",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 20,
+        "episodeGlobally": 45,
+        "references": [
+            { "name": "Borat", "type": "movie" },
+            { "name": "Fiddler on the Roof", "type": "musical" },
+            { "name": "Who's the Boss?", "type": "show" },
+            { "name": "Oprah", "type": "show" },
+            { "name": "What's Happening!!", "type": "show" },
+            { "name": "Veronica Mars", "type": "show" }
+        ]
+    },
+    {
+        "title": "Paradigms of Human Memory",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 21,
+        "episodeGlobally": 46,
+        "references": [
+            { "name": "Gone With The Wind", "type": "movie" },
+            { "name": "Song of the South", "type": "movie" },
+            { "name": "Alien", "type": "movie" },
+            { "name": "Jaws", "type": "movie" },
+            { "name": "Gravity - Sara Bareilles", "type": "music" },
+            { "name": "Traveling Wilburys", "type": "music" },
+            { "name": "Not Going Back - Childish Gambino", "type": "music" },
+            { "name": "Glee", "type": "show" },
+            { "name": "The Cape", "type": "show" }
+        ]
+    },
+    {
+        "title": "Applied Anthropology and Culinary Arts",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 22,
+        "episodeGlobally": 47,
+        "references": [
+            { "name": "Indecent Proposal", "type": "movie" },
+            { "name": "Children of the Corn", "type": "movie" },
+            { "name": "Eraserhead", "type": "movie" },
+            { "name": "Lake Wobegon Days", "type": "book" }
+        ]
+    },
+    {
+        "title": "A Fistful of Paintballs",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 23,
+        "episodeGlobally": 48,
+        "references": [
+            { "name": "Star Wars", "type": "movie" },
+            { "name": "The Magnificent Seven", "type": "movie" },
+            { "name": "The Good, the Bad and the Ugly", "type": "movie" },
+            { "name": "A Fistful of Dollars", "type": "movie" },
+            { "name": "Blazing Saddles", "type": "movie" },
+            { "name": "Lost", "type": "show" }
+        ]
+    },
+    {
+        "title": "For A Few Paintballs More",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 2,
+        "episodeInSeason": 24,
+        "episodeGlobally": 49,
+        "references": [
+            { "name": "Star Wars", "type": "movie" },
+            { "name": "The Warriors", "type": "movie" },
+            { "name": "The Shawshank Redemption", "type": "movie" },
+            { "name": "Platoon", "type": "movie" },
+            { "name": "The Little Rascals", "type": "movie" }
         ]
     }
 ]
