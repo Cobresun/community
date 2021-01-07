@@ -12,6 +12,7 @@
 
 <script>
 import EpisodeFrame from '../components/EpisodeFrame.vue'
+import store from '../store'
 
 export default {
     name: 'EpisodeGallery',
@@ -25,8 +26,8 @@ export default {
     computed: {
         filteredEpisodes() {
             return this.episodeList.filter(episode =>
-                episode.title.toLowerCase().includes(this.searchText.toLowerCase())
-                || episode.references.some(ref => ref.name.toLowerCase().includes(this.searchText.toLowerCase()))
+                episode.title.toLowerCase().includes(store.state.searchQuery.toLowerCase())
+                || episode.references.some(ref => ref.name.toLowerCase().includes(store.state.searchQuery.toLowerCase()))
             )
         }
     }

@@ -1,13 +1,23 @@
 <template>
     <input
         v-model="text"
+        v-on:input="changeText"
         placeholder="Search episode or reference"
     >
 </template>
 
 <script>
+import store from '../store'
+import router from '../router'
+
 export default {
-    name: 'SearchBar'
+    name: 'SearchBar',
+    methods: {
+        changeText: function (){
+            store.commit('changeSearch', this.text);
+            router.push("/");
+        }
+    }
 }
 </script>
 

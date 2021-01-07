@@ -29,8 +29,7 @@ export default {
         push(path) {
             router.push(path)
         },
-        handleScroll(event) {
-            console.log(event)
+        handleScroll() {
             if (document.body.scrollTop > 80 || document.documentElement.scrollTop > 80) {
                 document.getElementById("home-button").style.fontSize = "0px";
             } else {
