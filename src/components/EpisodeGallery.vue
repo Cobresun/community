@@ -1,10 +1,13 @@
 <template>
+<div>
     <div class="cards">
-      <EpisodeFrame
-        v-for="episode in filteredEpisodes"
-        v-bind:key="episode.episodeGlobally"
-        v-bind:episode="episode"/>
+        <EpisodeFrame
+            v-for="episode in filteredEpisodes"
+            v-bind:key="episode.episodeGlobally"
+            v-bind:episode="episode"/>
     </div>
+    <p v-if="filteredEpisodes.length == 0">No matches found 😢</p>
+</div>
 </template>
 
 <script>
