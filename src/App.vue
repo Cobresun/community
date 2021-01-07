@@ -3,7 +3,7 @@
     <NavBar v-model="searchText"/>
     <router-view/>
     <footer>
-      <b>Created by: <a href="https://www.cobresun.com">Cobresun.</a></b>
+      <b>Created with 💛 by <a href="https://www.cobresun.com">Cobresun.</a></b>
     </footer>
   </div>
 </template>
@@ -25,5 +25,9 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+}
+footer {
+  margin-top: 10%;
+  margin-bottom: 5%;
 }
 </style>
