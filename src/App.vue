@@ -19,6 +19,11 @@ export default {
 </script>
 
 <style>
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -26,6 +31,7 @@ export default {
   text-align: center;
   color: #2c3e50;
 }
+
 footer {
   margin-top: 10%;
   margin-bottom: 5%;
