@@ -145,7 +145,7 @@
             { "name": "Good Times", "type": "show" },
             { "name": "M*A*S*H", "type": "show" },
             { "name": "Garfield", "type": "comic" },
-            { "name": "Michael Richards Laugh Factory Stand-up Routine", "type": "stand up" }
+            { "name": "Michael Richards Laugh Factory Stand-up Routine", "type": "stand-up" }
         ]
     },
     {
@@ -664,11 +664,7 @@
         "episodeInSeason": 14,
         "episodeGlobally": 39,
         "references": [
-            { "name": "The Lord of the Rings: The Fellowship of the Ring", "type": "movie" },
-            { "name": "Dungeons & Dragons", "type": "game" },
-            { "name": "Jenga", "type": "game" },
-            { "name": "Chutes & Ladders", "type": "game" }
-            
+            { "name": "The Lord of the Rings: The Fellowship of the Ring", "type": "movie" }
         ]
     },
     {
@@ -1359,6 +1355,210 @@
             { "name": "Terminator", "type": "movie" },
             { "name": "The Matrix", "type": "movie" },
             { "name": "The Cape", "type": "show" }
+        ]
+    },
+    {
+        "title": "Repilot",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 5,
+        "episodeInSeason": 1,
+        "episodeGlobally": 85,
+        "references": [
+            { "name": "Tango & Cash", "type": "movie" },
+            { "name": "Sling Blade", "type": "movie" },
+            { "name": "Time Bandits", "type": "movie" },
+            { "name": "The Social Network", "type": "movie" },
+            { "name": "Scrubs", "type": "show" },
+            { "name": "Bones", "type": "show" }
+        ]
+    },
+    {
+        "title": "Introduction to Teaching",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 5,
+        "episodeInSeason": 2,
+        "episodeGlobally": 86,
+        "references": [
+            { "name": "Hellraiser", "type": "movie" },
+            { "name": "The Rock", "type": "movie" },
+            { "name": "Con Air", "type": "movie" },
+            { "name": "Face/Off", "type": "movie" },
+            { "name": "Windtalkers", "type": "movie" },
+            { "name": "Guarding Tess", "type": "movie" },
+            { "name": "The Wicker Man", "type": "movie" },
+            { "name": "Snake Eyes", "type": "movie" },
+            { "name": "Dangerous Minds", "type": "movie" },
+            { "name": "Kung Fu Panda", "type": "movie" },
+            { "name": "MythBusters", "type": "show" },
+            { "name": "Who's the Boss?", "type": "show" },
+            { "name": "Planet Earth", "type": "show" },
+            { "name": "Weirdo - Donald Glover", "type": "stand-up" },
+            { "name": "Glengarry Glen Ross", "type": "play" },
+            { "name": "The Thing", "type": "comic" }
+        ]
+    },
+    {
+        "title": "Basic Intergluteal Numismatics",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 5,
+        "episodeInSeason": 3,
+        "episodeGlobally": 87,
+        "references": [
+            { "name": "Zodiac", "type": "movie" },
+            { "name": "Red Dragon", "type": "movie" },
+            { "name": "Scream", "type": "movie" },
+            { "name": "I Know What You Did Last Summer", "type": "movie" },
+            { "name": "Se7en", "type": "movie" },
+            { "name": "Jaws", "type": "movie" },
+            { "name": "Creep - Radiohead", "type": "music" },
+            { "name": "Dave Matthews Band", "type": "music" },
+            { "name": "The Bridge", "type": "show" },
+            { "name": "Hannibal", "type": "show" },
+            { "name": "Pretty Little Liars", "type": "show" },
+            { "name": "Psych", "type": "show" },
+            { "name": "Monk", "type": "show" },
+            { "name": "Sherlock Holmes", "type": "show" }
+        ]
+    },
+    {
+        "title": "Cooperative Polygraphy",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 5,
+        "episodeInSeason": 4,
+        "episodeGlobally": 88,
+        "references": [
+            { "name": "The Grey", "type": "movie" },
+            { "name": "Police Academy", "type": "movie" },
+            { "name": "Robocop", "type": "movie" },
+            { "name": "Catfish", "type": "movie" }
+        ]
+    },
+    {
+        "title": "Geothermal Escapism",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 5,
+        "episodeInSeason": 5,
+        "episodeGlobally": 89,
+        "references": [
+            { "name": "Waterworld", "type": "movie" },
+            { "name": "The Lord of the Rings: The Return of the King", "type": "movie" },
+            { "name": "Alien 3", "type": "movie" },
+            { "name": "The Jewel of the Nile", "type": "movie" },
+            { "name": "The Usual Suspects", "type": "movie" },
+            { "name": "Hook", "type": "movie" },
+            { "name": "Mad Max Beyond Thunderdome", "type": "movie" },
+            { "name": "Come Sail Away - Aimee Mann", "type": "music" },
+            { "name": "Star Trek", "type": "show" },
+            { "name": "Breaking Bad", "type": "show" }
+        ]
+    },
+    {
+        "title": "Analysis of Cork-Based Networking",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 5,
+        "episodeInSeason": 6,
+        "episodeGlobally": 90,
+        "references": [
+            { "name": "Star Wars", "type": "movie" },
+            { "name": "Labyrinth", "type": "movie" },
+            { "name": "Léon: The Professional", "type": "movie" },
+            { "name": "Slide Right In - Raphael Lake", "type": "music" },
+            { "name": "More Than This - Roxy Music", "type": "music" },
+            { "name": "Game of Thrones", "type": "show" },
+            { "name": "The West Wing", "type": "show" },
+            { "name": "M*A*S*H", "type": "show" },
+            { "name": "Rick and Morty", "type": "show" }
+        ]
+    },
+    {
+        "title": "Bondage and Beta Male Sexuality",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 5,
+        "episodeInSeason": 7,
+        "episodeGlobally": 91,
+        "references": [
+            { "name": "E.T.", "type": "movie" },
+            { "name": "Dane Cook romcoms", "type": "movie" },
+            { "name": "The Sixth Sense", "type": "movie" },
+            { "name": "The Shining", "type": "movie" }
+        ]
+    },
+    {
+        "title": "App Development and Condiments",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 5,
+        "episodeInSeason": 8,
+        "episodeGlobally": 92,
+        "references": [
+            { "name": "Outland", "type": "movie" },
+            { "name": "Logan's Run", "type": "movie" },
+            { "name": "The Apple", "type": "movie" },
+            { "name": "Zardoz", "type": "movie" },
+            { "name": "Nineteen Eighty-Four", "type": "book" },
+            { "name": "Brave New World", "type": "book" },
+            { "name": "We", "type": "book" }
+        ]
+    },
+    {
+        "title": "VCR Maintenance and Educational Publishing",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 5,
+        "episodeInSeason": 9,
+        "episodeGlobally": 93,
+        "references": [
+            { "name": "Star Wars", "type": "movie" },
+            { "name": "8 Mile", "type": "movie" },
+            { "name": "The Odd Couple", "type": "play" }
+        ]
+    },
+    {
+        "title": "Advanced Advanced Dungeons & Dragons",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 5,
+        "episodeInSeason": 10,
+        "episodeGlobally": 94,
+        "references": [
+            { "name": "Die Hard", "type": "movie" },
+            { "name": "Looper", "type": "movie" },
+            { "name": "Man of Steel", "type": "movie" },
+            { "name": "Arrested Development", "type": "show" },
+            { "name": "Parks and Recreation", "type": "show" }
+        ]
+    },
+    {
+        "title": "G.I. Jeff",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 5,
+        "episodeInSeason": 11,
+        "episodeGlobally": 95,
+        "references": [
+            { "name": "Breaking Bad", "type": "show" },
+            { "name": "G.I. Joe", "type": "show" }
+        ]
+    },
+    {
+        "title": "Basic Story",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 5,
+        "episodeInSeason": 12,
+        "episodeGlobally": 96,
+        "references": [
+            { "name": "Divine Comedy", "type": "poem" }
+        ]
+    },
+    {
+        "title": "Basic Sandwich",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 5,
+        "episodeInSeason": 13,
+        "episodeGlobally": 97,
+        "references": [
+            { "name": "Aliens", "type": "movie" },
+            { "name": "Star Wars", "type": "movie" },
+            { "name": "Antz", "type": "movie" },
+            { "name": "Bionic Woman", "type": "movie" },
+            { "name": "The Office", "type": "movie" },
+            { "name": "Thundercats", "type": "movie" }
         ]
     }
 ]
