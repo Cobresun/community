@@ -2,6 +2,9 @@
   <div>
     <h1 class="home-button" @click="push('/')">Community References</h1>
     <router-view/>
+    <footer>
+      <b>Created by: <a href="https://www.cobresun.com">Cobresun.</a></b>
+    </footer>
   </div>
 </template>
 

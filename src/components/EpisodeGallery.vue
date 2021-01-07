@@ -32,10 +32,12 @@ export default {
 
 <style scoped>
     .cards {
+        margin: 0 auto;
         padding-top: 50px;
         display: grid;
         grid-template-columns: repeat(auto-fill, 300px);
         grid-auto-rows: auto;
         grid-gap: 1rem;
+        width: 90%;
     }
 </style>
