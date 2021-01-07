@@ -13,6 +13,11 @@ import router from '../router'
 
 export default {
     name: 'SearchBar',
+    data() {
+        return {
+            text: ''
+        }
+    },
     methods: {
         changeText: function (){
             store.commit('changeSearch', this.text);

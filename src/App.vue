@@ -1,6 +1,6 @@
 <template>
   <div>
-    <NavBar v-model="searchText"/>
+    <NavBar/>
     <router-view/>
     <footer>
       <b>Created with 💛 by <a href="https://www.cobresun.com">Cobresun.</a></b>

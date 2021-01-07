@@ -2,7 +2,7 @@
     <div class="navbar">
         <h1 id="home-button" @click="push('/')">Community References</h1>
         <div id="bottom-row">
-            <SearchBar id="search" v-model="searchText"/>
+            <SearchBar id="search"/>
             <ul>
                 <li><a @click="push('/about')">About</a></li>
             </ul>
