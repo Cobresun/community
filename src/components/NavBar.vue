@@ -2,11 +2,10 @@
     <div class="navbar">
         <h1 id="home-button" @click="push('/')">Community References</h1>
         <div id="bottom-row">
+            <SearchBar id="search" v-model="searchText"/>
             <ul>
-                <li><a @click="push('/')">Home</a></li>
                 <li><a @click="push('/about')">About</a></li>
             </ul>
-            <SearchBar id="search" v-model="searchText"/>
         </div>
     </div>
 </template>
@@ -46,8 +45,9 @@ export default {
 body {margin:0;}
 
 #search {
-    display: block;
-    width: 78%;
+    display: inline-block;
+    width: 80%;
+    float: left;
 }
 
 ul {
@@ -55,7 +55,6 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  float: left;
   width: 10%;
 }
 
@@ -63,7 +62,7 @@ ul {
   position: fixed;
   top: 0;
   width: 100%;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
   background-color: #eee;
   z-index: 1;
 }
@@ -78,7 +77,7 @@ ul {
 }
 
 #bottom-row {
-  padding-left: 5%;
+  padding-left: 15%;
   padding-right: 5%;
 }
 
