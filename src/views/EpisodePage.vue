@@ -1,6 +1,6 @@
 <template>
     <div id="page">
-        <h3>References in {{ episodeTitle }}</h3>
+        <h2>References in S{{ episode["season"] }}E{{ episode["episodeInSeason"] }}: {{ episode["title"] }}</h2>
         <div v-if="references.length > 0">
             <p v-for="reference in references" v-bind:key="reference">{{ reference.name }} ({{ reference.type }})</p>
         </div>
@@ -20,7 +20,7 @@ export default {
     },
     data() {
         return {
-            episodeTitle: episodes[this.id]["title"],
+            episode: episodes[this.id],
             references: episodes[this.id]["references"]
         }
     }

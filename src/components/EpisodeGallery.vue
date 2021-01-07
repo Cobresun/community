@@ -132,6 +132,7 @@ export default {
     grid-auto-rows: auto;
     grid-gap: 1rem;
     width: 90%;
+    justify-content: center;
 }
 
 .gallery {
