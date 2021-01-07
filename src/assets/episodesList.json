@@ -1172,5 +1172,193 @@
             { "name": "Dance Moms", "type": "show" },
             { "name": "Sabrina the Teenage Witch", "type": "show" }
         ]
+    },
+    {
+        "title": "History 101",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 4,
+        "episodeInSeason": 1,
+        "episodeGlobally": 72,
+        "references": [
+            { "name": "Star Wars", "type": "movie" },
+            { "name": "The Hunger Games", "type": "movie" },
+            { "name": "Storage Wars", "type": "show" },
+            { "name": "Muppet Babies", "type": "show" }
+        ]
+    },
+    {
+        "title": "Paranormal Parentage",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 4,
+        "episodeInSeason": 2,
+        "episodeGlobally": 73,
+        "references": [
+            { "name": "Caddyshack", "type": "movie" },
+            { "name": "Do the Right Thing", "type": "movie" },
+            { "name": "Cougar Town", "type": "show" },
+            { "name": "Miami Vice", "type": "show" },
+            { "name": "Scooby-Doo! Mystery Incorporated", "type": "show" },
+            { "name": "Peter Pan", "type": "book" }
+        ]
+    },
+    {
+        "title": "Conventions of Space and Time",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 4,
+        "episodeInSeason": 3,
+        "episodeGlobally": 74,
+        "references": [
+            { "name": "Doctor Who", "type": "show" }
+        ]
+    },
+    {
+        "title": "Alternative History of the German Invasion",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 4,
+        "episodeInSeason": 4,
+        "episodeGlobally": 75,
+        "references": [
+            { "name": "Die Hard III", "type": "movie" },
+            { "name": "Darren Aronofsky Movies", "type": "movie" },
+            { "name": "The System is Down - Strong Bad", "type": "music" },
+            { "name": "99 Red Balloons - Nena", "type": "music" },
+            { "name": "Game of Thrones", "type": "show" },
+            { "name": "The Class", "type": "show" },
+            { "name": "The Nanny", "type": "show" },
+            { "name": "Burn Notice", "type": "show" },
+            { "name": "Hogan's Heroes", "type": "show" }
+        ]
+    },
+    {
+        "title": "Cooperative Escapism in Familial Relations",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 4,
+        "episodeInSeason": 5,
+        "episodeGlobally": 76,
+        "references": [
+            { "name": "The Shawshank Redemption", "type": "movie" },
+            { "name": "Borat", "type": "movie" },
+            { "name": "Die Hard", "type": "movie" },
+            { "name": "The Dark Knight", "type": "movie" },
+            { "name": "Cat's in the Cradle - Harry Chapin", "type": "music" },
+            { "name": "Twins", "type": "show" },
+            { "name": "Prison Break", "type": "show" },
+            { "name": "Showtime at the Apollo", "type": "show" }
+
+        ]
+    },
+    {
+        "title": "Advanced Documentary Filmmaking",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 4,
+        "episodeInSeason": 6,
+        "episodeGlobally": 77,
+        "references": [
+            { "name": "The Tree of Life", "type": "movie" },
+            { "name": "Grizzly Man", "type": "movie" },
+            { "name": "Memento", "type": "movie" }
+        ]
+    },
+    {
+        "title": "Economics of Marine Biology",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 4,
+        "episodeInSeason": 7,
+        "episodeGlobally": 78,
+        "references": [
+            { "name": "The Walking Dead", "type": "show" },
+            { "name": "Deadliest Catch", "type": "show" },
+            { "name": "Memento", "type": "movie" }
+        ]
+    },
+    {
+        "title": "Herstory of Dance",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 4,
+        "episodeInSeason": 8,
+        "episodeGlobally": 79,
+        "references": [
+            { "name": "Star Wars: The Phantom Menace", "type": "movie" },
+            { "name": "Damn I Wish I Was Your Lover - Sophie B. Hawkins", "type": "music" },
+            { "name": "As I Lay Me Down - Sophie B. Hawkins", "type": "music" },
+            { "name": "I Will Remember You - Sarah McLachlan", "type": "music" },
+            { "name": "Lucy in the Sky with Diamonds - The Beatles", "type": "music" },
+            { "name": "Rocky Raccoon - The Beatles", "type": "music" },
+            { "name": "Awake", "type": "show" },
+            { "name": "Doctor Who", "type": "show" }
+        ]
+    },
+    {
+        "title": "Intro to Felt Surrogacy",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 4,
+        "episodeInSeason": 9,
+        "episodeGlobally": 80,
+        "references": [
+            { "name": "Ferris Bueller's Day Off", "type": "movie" },
+            { "name": "Three's Company", "type": "show" },
+            { "name": "Gossip Girl", "type": "show" },
+            { "name": "Lost", "type": "show" },
+            { "name": "Judge Judy", "type": "show" }
+        ]
+    },
+    {
+        "title": "Intro to Knots",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 4,
+        "episodeInSeason": 10,
+        "episodeGlobally": 81,
+        "references": [
+            { "name": "Rope", "type": "movie" },
+            { "name": "Die Hard", "type": "movie" },
+            { "name": "War - The Temptations", "type": "music" },
+            { "name": "Sha Na Na", "type": "music" },
+            { "name": "Scrooge McDuck", "type": "comic" }
+        ]
+    },
+    {
+        "title": "Basic Human Anatomy",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 4,
+        "episodeInSeason": 11,
+        "episodeGlobally": 82,
+        "references": [
+            { "name": "Freaky Friday", "type": "movie" },
+            { "name": "The Change-Up", "type": "movie" },
+            { "name": "13 Going on 30", "type": "movie" },
+            { "name": "Seventeen Again", "type": "movie" },
+            { "name": "18 Again!", "type": "movie" },
+            { "name": "Vice Versa", "type": "movie" },
+            { "name": "Welcome Back, Kotter", "type": "show" }
+        ]
+    },
+    {
+        "title": "Heroic Origins",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 4,
+        "episodeInSeason": 12,
+        "episodeGlobally": 83,
+        "references": [
+            { "name": "Three Colours", "type": "movie" },
+            { "name": "Star Wars", "type": "movie" },
+            { "name": "Juno", "type": "movie" },
+            { "name": "Indiana Jones and the Kingdom of the Crystal Skull", "type": "movie" },
+            { "name": "Wanted", "type": "movie" },
+            { "name": "There Will Be Blood", "type": "movie" },
+            { "name": "Spider-Man: The Animated Series", "type": "show" }
+        ]
+    },
+    {
+        "title": "Advanced Introduction to Finality",
+        "imageUrl": "https://www.comingsoon.net/assets/uploads/2019/03/Community-header.jpeg",
+        "season": 4,
+        "episodeInSeason": 13,
+        "episodeGlobally": 84,
+        "references": [
+            { "name": "Star Wars", "type": "movie" },
+            { "name": "Terminator", "type": "movie" },
+            { "name": "The Matrix", "type": "movie" },
+            { "name": "The Cape", "type": "show" }
+        ]
     }
 ]
