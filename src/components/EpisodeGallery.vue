@@ -33,7 +33,7 @@ export default {
 <style scoped>
     .cards {
         margin: 0 auto;
-        padding-top: 50px;
+        padding-top: 200px;
         display: grid;
         grid-template-columns: repeat(auto-fill, 300px);
         grid-auto-rows: auto;

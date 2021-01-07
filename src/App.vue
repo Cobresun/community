@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="home-button" @click="push('/')">Community References</h1>
+    <NavBar v-model="searchText"/>
     <router-view/>
     <footer>
       <b>Created by: <a href="https://www.cobresun.com">Cobresun.</a></b>
@@ -9,13 +9,11 @@
 </template>
 
 <script>
-import router from './router'
+import NavBar from './components/NavBar.vue'
 
 export default {
-  methods: {
-    push(path) {
-      router.push(path)
-    }
+  components: {
+    NavBar
   }
 }
 </script>
@@ -27,9 +25,5 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-}
-
-.home-button:hover {
-  cursor: pointer;
 }
 </style>

@@ -18,5 +18,6 @@ input {
     margin-top: 8px;
     margin-right: 16px;
     font-size: 17px;
+    width: 100%;
 }
 </style>
