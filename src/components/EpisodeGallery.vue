@@ -19,13 +19,15 @@
                 />
             </div>
         </div>
-        <div v-if="!collapse" class="cards">
-            <episode-frame
-                v-for="episode in filterBySeason(index+1)"
-                :key="episode.episodeGlobally"
-                :episode="episode"
-            />
-        </div>
+        <transition-expand>
+            <div v-if="!collapse" class="cards">
+                <episode-frame
+                    v-for="episode in filterBySeason(index+1)"
+                    :key="episode.episodeGlobally"
+                    :episode="episode"
+                />
+            </div>
+        </transition-expand>
     </div>
     <p v-if="filteredEpisodesCount === 0">No matches found 😢</p>
 </div>
@@ -34,6 +36,7 @@
 <script>
 import EpisodeFrame from '../components/EpisodeFrame.vue'
 import store from '../store'
+import TransitionExpand from './animations/TransitionExpand.vue'
 
 export default {
     name: 'EpisodeGallery',
@@ -54,7 +57,8 @@ export default {
         }
     },
     components: {
-        EpisodeFrame
+        EpisodeFrame,
+        TransitionExpand
     },
     methods: {
         includeEpisode(episode) {
