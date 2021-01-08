@@ -28,11 +28,21 @@ export default {
 
 <style scoped>
 #about {
-    padding-top: 200px;
+    padding-top: 12rem;
 }
+
 .contentText{
     text-align: left;
     width: 50%;
     margin: auto;
+}
+
+@media only screen and (max-width: 750px) {
+    #about {
+        padding-top: 9rem;
+    }
+    .contentText {
+        width: 95%;
+    }
 }
 </style>

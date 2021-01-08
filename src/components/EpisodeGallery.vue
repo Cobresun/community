@@ -105,10 +105,6 @@ export default {
     align-items: center;
 }
 
-.gallery {
-    padding-top: 200px;
-}
-
 .collapse-btn {
     border-radius: 32px;
     transition: 0.2s;

@@ -108,7 +108,7 @@ li a:hover:not(.active) {
   background-color: #4CAF50;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 750px) {
   .title-size {
     font-size: 25px;
   }
