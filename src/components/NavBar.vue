@@ -6,7 +6,7 @@
             v-show="displayTitle"
             class="title-size"
             @click="push('/')"
-          >Community References</h1>
+          >Community: Required Reading</h1>
         </transition>
         <div id="bottom-row">
             <SearchBar id="search"/>
