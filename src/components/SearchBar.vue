@@ -1,5 +1,6 @@
 <template>
     <input
+        type="search"
         v-model="text"
         v-on:input="changeText"
         v-on:keyup="searchKeyPress"
