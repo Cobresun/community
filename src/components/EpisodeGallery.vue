@@ -1,53 +1,32 @@
 <template>
 <div class="gallery">
-    <h1 v-if="filteredEpisodesSeason1.length !== 0">Season 1</h1>
-    <div class="cards">
-        <EpisodeFrame
-            v-for="episode in filteredEpisodesSeason1"
-            v-bind:key="episode.episodeGlobally"
-            v-bind:episode="episode"/>
+    <div 
+        v-for="(collapse, index) in collapsed"
+        :key="index"
+    >
+        <div class="cards">
+            <div
+                v-if="seasonHasResult(index+1)" 
+                class="season-header"
+            >
+                <h1 class="title" >Season {{ index+1 }}</h1>
+                <mdicon 
+                    :name="collapse ? 'chevronDown': 'chevronUp'"
+                    class="collapse-btn"
+                    :width="32"
+                    :height="32"
+                    @click="toggleSeason(index)"
+                />
+            </div>
+        </div>
+        <div v-if="!collapse" class="cards">
+            <episode-frame
+                v-for="episode in filterBySeason(index+1)"
+                :key="episode.episodeGlobally"
+                :episode="episode"
+            />
+        </div>
     </div>
-
-    <h1 v-if="filteredEpisodesSeason2.length !== 0">Season 2</h1>
-    <div class="cards">
-        <EpisodeFrame
-            v-for="episode in filteredEpisodesSeason2"
-            v-bind:key="episode.episodeGlobally"
-            v-bind:episode="episode"/>
-    </div>
-
-    <h1 v-if="filteredEpisodesSeason3.length !== 0">Season 3</h1>
-    <div class="cards">
-        <EpisodeFrame
-            v-for="episode in filteredEpisodesSeason3"
-            v-bind:key="episode.episodeGlobally"
-            v-bind:episode="episode"/>
-    </div>
-
-    <h1 v-if="filteredEpisodesSeason4.length !== 0">Season 4</h1>
-    <div class="cards">
-        <EpisodeFrame
-            v-for="episode in filteredEpisodesSeason4"
-            v-bind:key="episode.episodeGlobally"
-            v-bind:episode="episode"/>
-    </div>
-
-    <h1 v-if="filteredEpisodesSeason5.length !== 0">Season 5</h1>
-    <div class="cards">
-        <EpisodeFrame
-            v-for="episode in filteredEpisodesSeason5"
-            v-bind:key="episode.episodeGlobally"
-            v-bind:episode="episode"/>
-    </div>
-
-    <h1 v-if="filteredEpisodesSeason6.length !== 0">Season 6</h1>
-    <div class="cards">
-        <EpisodeFrame
-            v-for="episode in filteredEpisodesSeason6"
-            v-bind:key="episode.episodeGlobally"
-            v-bind:episode="episode"/>
-    </div>
-
     <p v-if="filteredEpisodesCount === 0">No matches found 😢</p>
 </div>
 </template>
@@ -62,64 +41,44 @@ export default {
         episodeList: Object,
         searchText: String
     },
+    data() {
+        return {
+            collapsed :[
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        }
+    },
     components: {
         EpisodeFrame
     },
-    computed: {
-        filteredEpisodesCount() {
-            return this.episodeList.filter(episode =>
-                episode.title.toLowerCase().includes(store.state.searchQuery.toLowerCase())
-                || episode.references.some(ref => ref.name.toLowerCase().includes(store.state.searchQuery.toLowerCase()))
-            ).length
+    methods: {
+        includeEpisode(episode) {
+            const searchQuery = store.state.searchQuery.toLowerCase();
+            return episode.title.toLowerCase().includes(searchQuery)
+            || episode.references.some(ref => ref.name.toLowerCase().includes(searchQuery));
         },
-        filteredEpisodesSeason1() {
-            return this.episodeList.filter(episode =>
-                (
-                    episode.title.toLowerCase().includes(store.state.searchQuery.toLowerCase())
-                    || episode.references.some(ref => ref.name.toLowerCase().includes(store.state.searchQuery.toLowerCase()))
-                ) && episode.season === 1
-            )
+        filterBySeason(season) {
+            return this.filteredEpisodes.filter(episode => episode.season === season);
         },
-        filteredEpisodesSeason2() {
-            return this.episodeList.filter(episode =>
-                (
-                    episode.title.toLowerCase().includes(store.state.searchQuery.toLowerCase())
-                    || episode.references.some(ref => ref.name.toLowerCase().includes(store.state.searchQuery.toLowerCase()))
-                ) && episode.season === 2
-            )
+        seasonHasResult(season) {
+            return this.filteredEpisodes.some(episode => episode.season === season);
         },
-        filteredEpisodesSeason3() {
-            return this.episodeList.filter(episode =>
-                (
-                    episode.title.toLowerCase().includes(store.state.searchQuery.toLowerCase())
-                    || episode.references.some(ref => ref.name.toLowerCase().includes(store.state.searchQuery.toLowerCase()))
-                ) && episode.season === 3
-            )
-        },
-        filteredEpisodesSeason4() {
-            return this.episodeList.filter(episode =>
-                (
-                    episode.title.toLowerCase().includes(store.state.searchQuery.toLowerCase())
-                    || episode.references.some(ref => ref.name.toLowerCase().includes(store.state.searchQuery.toLowerCase()))
-                ) && episode.season === 4
-            )
-        },
-        filteredEpisodesSeason5() {
-            return this.episodeList.filter(episode =>
-                (
-                    episode.title.toLowerCase().includes(store.state.searchQuery.toLowerCase())
-                    || episode.references.some(ref => ref.name.toLowerCase().includes(store.state.searchQuery.toLowerCase()))
-                ) && episode.season === 5
-            )
-        },
-        filteredEpisodesSeason6() {
-            return this.episodeList.filter(episode =>
-                (
-                    episode.title.toLowerCase().includes(store.state.searchQuery.toLowerCase())
-                    || episode.references.some(ref => ref.name.toLowerCase().includes(store.state.searchQuery.toLowerCase()))
-                ) && episode.season === 6
-            )
+        toggleSeason(season) {
+            this.collapsed[season] = !this.collapsed[season];
         }
+    },
+    computed: {
+        filteredEpisodes() {
+            return this.episodeList.filter(episode => this.includeEpisode(episode));
+        },
+        filteredEpisodesCount() {
+            return this.filteredEpisodes.length;
+        },
     }
 }
 </script>
@@ -135,7 +94,24 @@ export default {
     justify-content: center;
 }
 
+.season-header {
+    grid-column: 1/-1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .gallery {
     padding-top: 200px;
+}
+
+.collapse-btn {
+    border-radius: 32px;
+    transition: 0.2s;
+}
+
+.collapse-btn:hover {
+  cursor: pointer;
+  background-color: #bbb;
 }
 </style>
