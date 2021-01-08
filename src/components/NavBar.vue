@@ -1,8 +1,5 @@
 <template>
     <div class="navbar">
-        <ul>
-          <li><a @click="push('/about')">About</a></li>
-        </ul>
         <transition name="grow-text">
           <h1 
             id="home-button"
@@ -13,6 +10,9 @@
         </transition>
         <div id="bottom-row">
             <SearchBar id="search"/>
+            <ul>
+              <li><a @click="push('/about')">About</a></li>
+            </ul>
         </div>
     </div>
 </template>
