@@ -1,11 +1,18 @@
 <template>
     <div class="navbar">
-        <h1 id="home-button" @click="push('/')">Community References</h1>
+        <ul>
+          <li><a @click="push('/about')">About</a></li>
+        </ul>
+        <transition name="grow-text">
+          <h1 
+            id="home-button"
+            v-show="displayTitle"
+            class="title-size"
+            @click="push('/')"
+          >Community References</h1>
+        </transition>
         <div id="bottom-row">
             <SearchBar id="search"/>
-            <ul>
-                <li><a @click="push('/about')">About</a></li>
-            </ul>
         </div>
     </div>
 </template>
@@ -16,6 +23,11 @@ import SearchBar from '../components/SearchBar.vue'
 
 export default {
     name: 'NavBar',
+    data() {
+      return {
+        displayTitle: true
+      }
+    },
     created () {
         window.addEventListener('scroll', this.handleScroll);
     },
@@ -30,11 +42,7 @@ export default {
             router.push(path)
         },
         handleScroll() {
-            if (document.body.scrollTop > 80 || document.documentElement.scrollTop > 80) {
-                document.getElementById("home-button").style.fontSize = "0px";
-            } else {
-                document.getElementById("home-button").style.fontSize = "50px";
-            }
+            this.displayTitle = !(document.body.scrollTop > 80 || document.documentElement.scrollTop > 80);
         }
     }
 }
@@ -64,12 +72,14 @@ ul {
 }
 
 #home-button {
-  font-size: 50px;
   font-weight: bold;
-  transition: 0.4s;
 }
 #home-button:hover {
   cursor: pointer;
+}
+
+.title-size {
+  font-size: 50px
 }
 
 #bottom-row {
@@ -96,5 +106,18 @@ li a:hover:not(.active) {
 
 .active {
   background-color: #4CAF50;
+}
+
+@media only screen and (max-width: 600px) {
+  .title-size {
+    font-size: 25px;
+  }
+}
+
+.grow-text-enter-active, .grow-text-leave-active {
+  transition: 0.3s;
+}
+.grow-text-enter-from, .grow-text-leave-to {
+  font-size: 0px;
 }
 </style>
