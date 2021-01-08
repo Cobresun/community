@@ -10,9 +10,7 @@
         </transition>
         <div id="bottom-row">
             <SearchBar id="search"/>
-            <ul>
-              <li><a @click="push('/about')">About</a></li>
-            </ul>
+            <div class="link" @click="push('/about')">About</div>
         </div>
     </div>
 </template>
@@ -50,23 +48,13 @@ export default {
 
 <style scoped>
 #search {
-    width: 80%;
-    float: left;
+  width: 60%;
+  margin-right: 1rem;
 }
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  width: 10%;
-}
-
 .navbar {
   position: fixed;
   top: 0;
   width: 100%;
-  padding-bottom: 5px;
   background-color: #eee;
   z-index: 1;
 }
@@ -83,32 +71,31 @@ ul {
 }
 
 #bottom-row {
-  padding-left: 15%;
-  padding-right: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 8px;
+  margin-top: 8px;
 }
 
-li {
-  float: left;
-}
-
-li a {
-  display: block;
+.link {
   color: black;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+  padding: 8px 8px;
   cursor: pointer;
 }
 
-li a:hover:not(.active) {
+.link:hover {
   background-color: #bbb;
 }
 
-.active {
-  background-color: #4CAF50;
-}
-
 @media only screen and (max-width: 750px) {
+  #search {
+    width: 100%;
+  }
+  #bottom-row {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
   .title-size {
     font-size: 25px;
   }
