@@ -21,11 +21,16 @@
         </div>
         <transition-expand>
             <div v-if="!collapse" class="cards">
-                <episode-frame
-                    v-for="episode in filterBySeason(index+1)"
-                    :key="episode.episodeGlobally"
-                    :episode="episode"
-                />
+                <transition-group 
+                    name="list"
+                >
+                    <episode-frame
+                        class="list-item"
+                        v-for="episode in filterBySeason(index+1)"
+                        :key="episode.episodeGlobally"
+                        :episode="episode"
+                    />
+                </transition-group>
             </div>
         </transition-expand>
     </div>
@@ -113,5 +118,20 @@ export default {
 .collapse-btn:hover {
   cursor: pointer;
   background-color: #bbb;
+}
+
+.list-item {
+    transition: all 0.5s ease;
+    display: inline-block;
+}
+
+.list-leave-active {
+    position: absolute;
+    display: none;
+}
+
+.list-enter-from,
+.list-leave-to {
+    opacity: 0;
 }
 </style>
