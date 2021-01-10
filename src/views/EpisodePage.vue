@@ -1,5 +1,5 @@
 <template>
-    <div id="page">
+    <div class="page">
         <h2>References in S{{ episode["season"] }}E{{ episode["episodeInSeason"] }}: {{ episode["title"] }}</h2>
         <div v-if="references.length > 0">
             <p v-for="reference in references" v-bind:key="reference">{{ reference.name }} ({{ reference.type }})</p>
@@ -28,7 +28,15 @@ export default {
 </script>
 
 <style scoped>
-#page {
-    padding-top: 200px;
+.page {
+  margin-top: 12rem;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+@media only screen and (max-width: 750px) {
+  .page {
+    margin-top: 9rem;
+  }
 }
 </style>
