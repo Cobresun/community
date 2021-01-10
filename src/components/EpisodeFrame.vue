@@ -36,4 +36,9 @@ export default {
         transition: 0.5s ease;
         cursor: pointer;
     }
+    img {
+        width: 296px;
+        height: 200px;
+        object-fit: cover;
+    }
 </style>
