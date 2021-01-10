@@ -1,6 +1,6 @@
 <template>
     <div class="card" @click="push('/ep/', episode.episodeGlobally)">
-        <img v-bind:src="episode.imageUrl" alt="Avatar" style="width:100%">
+        <img :src="require(`../assets/images/${episode.imageUrl}`)" alt="Avatar" style="width:100%">
         <h3><b>{{ episode.title }}</b></h3>
         <p>{{"Season " + episode.season + " Episode "+ episode.episodeInSeason}}</p>
     </div>

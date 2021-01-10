@@ -1,7 +1,7 @@
 [
     {
         "title": "Pilot",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/6/64/1x1_Jeff_and_Abed_intro_pic.jpg/revision/latest/scale-to-width-down/759?cb=20140414172908",
+        "imageUrl": "1.jpg",
         "season": 1,
         "episodeInSeason": 1,
         "episodeGlobally": 1,
@@ -21,7 +21,7 @@
     },
     {
         "title": "Spanish 101",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/d/d7/1X2_Promopic_4.jpg/revision/latest/scale-to-width-down/1000?cb=20131130173847",
+        "imageUrl": "2.jpg",
         "season": 1,
         "episodeInSeason": 2,
         "episodeGlobally": 2,
@@ -34,7 +34,7 @@
     },
     {
         "title": "Introduction to Film",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/b/b0/1x3_Promopic9.jpg/revision/latest/scale-to-width-down/759?cb=20140414174655",
+        "imageUrl": "3.jpg",
         "season": 1,
         "episodeInSeason": 3,
         "episodeGlobally": 3,
@@ -52,7 +52,7 @@
     },
     {
         "title": "Social Psychology",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/9/97/1x4_Promopic12.jpg/revision/latest/scale-to-width-down/655?cb=20140414171638",
+        "imageUrl": "4.jpg",
         "season": 1,
         "episodeInSeason": 4,
         "episodeGlobally": 4,
@@ -65,7 +65,7 @@
     },
     {
         "title": "Advanced Criminal Law",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/1/15/ACL_Chang_presents_to_the_class_the_crib_sheet.png/revision/latest/scale-to-width-down/1000?cb=20180522160517",
+        "imageUrl": "5.png",
         "season": 1,
         "episodeInSeason": 5,
         "episodeGlobally": 5,
@@ -87,7 +87,7 @@
     },
     {
         "title": "Football, Feminism and You",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/9/9a/1x6_Promotional_photo_17.jpg/revision/latest/scale-to-width-down/759?cb=20150825135654",
+        "imageUrl": "6.jpg",
         "season": 1,
         "episodeInSeason": 6,
         "episodeGlobally": 6,
@@ -103,7 +103,7 @@
     },
     {
         "title": "Introduction to Statistics",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/e/e3/1x07-Dean_Pelton_Slater_Britta_Jeff_unseemly.jpg/revision/latest/scale-to-width-down/1000?cb=20180522201210",
+        "imageUrl": "7.jpg",
         "season": 1,
         "episodeInSeason": 7,
         "episodeGlobally": 7,
@@ -121,7 +121,7 @@
     },
     {
         "title": "Home Economics",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/9/9c/No_Worries_portrait.jpg/revision/latest/scale-to-width-down/1000?cb=20131002210805",
+        "imageUrl": "8.jpg",
         "season": 1,
         "episodeInSeason": 8,
         "episodeGlobally": 8,
@@ -150,7 +150,7 @@
     },
     {
         "title": "Debate 109",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/4/4d/1x9_Jeff%27s_argument1.jpg/revision/latest/scale-to-width-down/1000?cb=20150213212102",
+        "imageUrl": "9.jpg",
         "season": 1,
         "episodeInSeason": 9,
         "episodeGlobally": 9,
@@ -166,7 +166,7 @@
     },
     {
         "title": "Environmental Science",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/c/c7/1x10_Fievel_escaped_.jpg/revision/latest/scale-to-width-down/1000?cb=20141223230622",
+        "imageUrl": "10.jpg",
         "season": 1,
         "episodeInSeason": 10,
         "episodeGlobally": 10,
@@ -184,7 +184,7 @@
     },
     {
         "title": "The Politics of Human Sexuality",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/a/a9/1x11-Annie_Britta_Shirley_Busted.jpg/revision/latest/scale-to-width-down/1000?cb=20180523192413",
+        "imageUrl": "11.jpg",
         "season": 1,
         "episodeInSeason": 11,
         "episodeGlobally": 11,
@@ -200,7 +200,7 @@
     },
     {
         "title": "Comparative Religion",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/6/68/Oh_Christmas_Troy.jpg/revision/latest/scale-to-width-down/1000?cb=20130725135652",
+        "imageUrl": "12.jpg",
         "season": 1,
         "episodeInSeason": 12,
         "episodeGlobally": 12,
@@ -226,7 +226,7 @@
     },
     {
         "title": "Investigative Journalism",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/4/42/IJ_Buddy%27s_fantasy.png/revision/latest/scale-to-width-down/1000?cb=20180523215245",
+        "imageUrl": "13.png",
         "season": 1,
         "episodeInSeason": 13,
         "episodeGlobally": 13,
@@ -241,7 +241,7 @@
     },
     {
         "title": "Interpretive Dance",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/b/b4/Troy%2C_Teacup_and_Daisy.jpg/revision/latest/scale-to-width-down/1000?cb=20131009200653",
+        "imageUrl": "14.jpg",
         "season": 1,
         "episodeInSeason": 14,
         "episodeGlobally": 14,
@@ -257,7 +257,7 @@
     },
     {
         "title": "Romantic Expressionism",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/c/c2/Annie_Vaughn.jpeg/revision/latest/scale-to-width-down/1000?cb=20180524014215",
+        "imageUrl": "15.jpg",
         "season": 1,
         "episodeInSeason": 15,
         "episodeGlobally": 15,
@@ -272,7 +272,7 @@
     },
     {
         "title": "Communication Studies",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/a/a2/1x16_Jeff_and_Abed_5.jpg/revision/latest/scale-to-width-down/1000?cb=20150715201931",
+        "imageUrl": "16.jpg",
         "season": 1,
         "episodeInSeason": 16,
         "episodeGlobally": 16,
@@ -289,7 +289,7 @@
     },
     {
         "title": "Physical Education",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/2/23/Jeff_in_gym_uniform.jpg/revision/latest/scale-to-width-down/1000?cb=20130926135116",
+        "imageUrl": "17.jpg",
         "season": 1,
         "episodeInSeason": 17,
         "episodeGlobally": 17,
@@ -314,7 +314,7 @@
     },
     {
         "title": "Basic Genealogy",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/a/aa/1x18_Promotional_photo_25.jpg/revision/latest/scale-to-width-down/718?cb=20150826140758",
+        "imageUrl": "18.jpg",
         "season": 1,
         "episodeInSeason": 18,
         "episodeGlobally": 18,
@@ -325,7 +325,7 @@
     },
     {
         "title": "Beginner Pottery",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/d/db/Its_a_gift.jpg/revision/latest/scale-to-width-down/1000?cb=20140115075825",
+        "imageUrl": "19.jpg",
         "season": 1,
         "episodeInSeason": 19,
         "episodeGlobally": 19,
@@ -343,7 +343,7 @@
     },
     {
         "title": "The Science of Illusion",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/c/cd/The_bad_cop_and_the_bad_cop.jpg/revision/latest/scale-to-width-down/1000?cb=20140116162043",
+        "imageUrl": "20.jpg",
         "season": 1,
         "episodeInSeason": 20,
         "episodeGlobally": 20,
@@ -354,7 +354,7 @@
     },
     {
         "title": "Contemporary American Poultry",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/a/a3/CAP_The_Chicken_Finger_Mob.png/revision/latest/scale-to-width-down/1000?cb=20120720211616",
+        "imageUrl": "21.png",
         "season": 1,
         "episodeInSeason": 21,
         "episodeGlobally": 21,
@@ -376,7 +376,7 @@
     },
     {
         "title": "The Art of Discourse",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/0/00/Shmitty_teens_A_duh.png/revision/latest/scale-to-width-down/1000?cb=20120806183147",
+        "imageUrl": "22.png",
         "season": 1,
         "episodeInSeason": 22,
         "episodeGlobally": 22,
@@ -392,7 +392,7 @@
     },
     {
         "title": "Modern Warfare",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/3/3b/1x23_Promotional_photo_7.jpg/revision/latest/scale-to-width-down/1000?cb=20170621174324",
+        "imageUrl": "23.jpg",
         "season": 1,
         "episodeInSeason": 23,
         "episodeGlobally": 23,
@@ -418,7 +418,7 @@
     },
     {
         "title": "English as a Second Language",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/0/05/EAASL_Troy_discovers_his_plumbing_skills.png/revision/latest/scale-to-width-down/1000?cb=20120613175723",
+        "imageUrl": "24.png",
         "season": 1,
         "episodeInSeason": 24,
         "episodeGlobally": 24,
@@ -432,7 +432,7 @@
     },
     {
         "title": "Pascal's Triangle Revisited",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/a/ab/1x25_Jeff_and_Britta_share_a_look2.jpg/revision/latest/scale-to-width-down/1000?cb=20150212002537",
+        "imageUrl": "25.jpg",
         "season": 1,
         "episodeInSeason": 25,
         "episodeGlobally": 25,
@@ -445,7 +445,7 @@
     },
     {
         "title": "Anthropology 101",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/2/2b/2X1_Promo_pic_19.jpg/revision/latest/scale-to-width-down/1000?cb=20131125185348",
+        "imageUrl": "26.jpg",
         "season": 2,
         "episodeInSeason": 1,
         "episodeGlobally": 26,
@@ -469,7 +469,7 @@
     },
     {
         "title": "Accounting for Lawyers",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/c/c5/2X2_Abed%27s_plan.png/revision/latest/scale-to-width-down/1000?cb=20180526184157",
+        "imageUrl": "27.png",
         "season": 2,
         "episodeInSeason": 2,
         "episodeGlobally": 27,
@@ -486,7 +486,7 @@
     },
     {
         "title": "The Psychology of Letting Go",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/0/06/NUP_141364_0927.jpg/revision/latest/scale-to-width-down/600?cb=20121002122705",
+        "imageUrl": "28.jpg",
         "season": 2,
         "episodeInSeason": 3,
         "episodeGlobally": 28,
@@ -502,7 +502,7 @@
     },
     {
         "title": "Basic Rocket Science",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/0/08/2x4_Promotional_photo_15.jpg/revision/latest/scale-to-width-down/759?cb=20151007082127",
+        "imageUrl": "29.jpg",
         "season": 2,
         "episodeInSeason": 4,
         "episodeGlobally": 29,
@@ -521,7 +521,7 @@
     },
     {
         "title": "Messianic Myths and Ancient Peoples",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/1/16/2x5_Promo_pic2.jpg/revision/latest/scale-to-width-down/759?cb=20141211133527",
+        "imageUrl": "30.jpg",
         "season": 2,
         "episodeInSeason": 5,
         "episodeGlobally": 30,
@@ -538,7 +538,7 @@
     },
     {
         "title": "Epidemiology",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/9/9c/Epidemiology.png/revision/latest/scale-to-width-down/591?cb=20120316230643",
+        "imageUrl": "31.png",
         "season": 2,
         "episodeInSeason": 6,
         "episodeGlobally": 31,
@@ -555,7 +555,7 @@
     },
     {
         "title": "Aerodynamics of Gender",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/d/d8/2x7_Promotional_photo_6.jpg/revision/latest/scale-to-width-down/759?cb=20150823181113",
+        "imageUrl": "32.jpg",
         "season": 2,
         "episodeInSeason": 7,
         "episodeGlobally": 32,
@@ -571,7 +571,7 @@
     },
     {
         "title": "Cooperative Calligraphy",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/0/09/2X8_Main_photo.jpg/revision/latest/scale-to-width-down/1000?cb=20130923203208",
+        "imageUrl": "33.jpg",
         "season": 2,
         "episodeInSeason": 8,
         "episodeGlobally": 33,
@@ -584,7 +584,7 @@
     },
     {
         "title": "Conspiracy Theories and Interior Design",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/c/ca/2X9_Promopic_2.png/revision/latest/scale-to-width-down/600?cb=20130316184816",
+        "imageUrl": "34.png",
         "season": 2,
         "episodeInSeason": 9,
         "episodeGlobally": 34,
@@ -604,7 +604,7 @@
     },
     {
         "title": "Mixology Certification",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/9/90/COMMUNITY-Mixology-Certification-5-550x365.jpg/revision/latest/scale-to-width-down/550?cb=20120502165220",
+        "imageUrl": "35.jpg",
         "season": 2,
         "episodeInSeason": 10,
         "episodeGlobally": 35,
@@ -619,7 +619,7 @@
     },
     {
         "title": "Abed's Uncontrollable Christmas",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/f/f9/S02E11-Claymation_Study_Room.jpg/revision/latest/scale-to-width-down/1000?cb=20180530235035",
+        "imageUrl": "36.jpg",
         "season": 2,
         "episodeInSeason": 11,
         "episodeGlobally": 36,
@@ -630,7 +630,7 @@
     },
     {
         "title": "Asian Population Studies",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/c/cb/Asian_Population_Studies.png/revision/latest/scale-to-width-down/599?cb=20120320001450",
+        "imageUrl": "37.png",
         "season": 2,
         "episodeInSeason": 12,
         "episodeGlobally": 37,
@@ -647,7 +647,7 @@
     },
     {
         "title": "Celebrity Pharmacology 212",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/a/a9/2x13_Promo11.jpg/revision/latest/scale-to-width-down/758?cb=20140827214943",
+        "imageUrl": "38.jpg",
         "season": 2,
         "episodeInSeason": 13,
         "episodeGlobally": 38,
@@ -659,7 +659,7 @@
     },
     {
         "title": "Advanced Dungeons & Dragons",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/3/33/2x14_Promo_pic14.jpg/revision/latest/scale-to-width-down/761?cb=20150102023741",
+        "imageUrl": "39.jpg",
         "season": 2,
         "episodeInSeason": 14,
         "episodeGlobally": 39,
@@ -669,7 +669,7 @@
     },
     {
         "title": "Early 21st Century Romanticism",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/2/27/2X15_Promo_pic_3.jpg/revision/latest/scale-to-width-down/1000?cb=20131127131938",
+        "imageUrl": "40.jpg",
         "season": 2,
         "episodeInSeason": 15,
         "episodeGlobally": 40,
@@ -683,7 +683,7 @@
     },
     {
         "title": "Intermediate Documentary Filmmaking",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/5/5b/2x16_Promotional_photo_8.jpg/revision/latest/scale-to-width-down/759?cb=20150822163652",
+        "imageUrl": "41.jpg",
         "season": 2,
         "episodeInSeason": 16,
         "episodeGlobally": 41,
@@ -711,7 +711,7 @@
     },
     {
         "title": "Intro to Political Science",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/4/46/2x17_Promotional_photo_8.jpg/revision/latest/scale-to-width-down/1000?cb=20170628043810",
+        "imageUrl": "42.jpg",
         "season": 2,
         "episodeInSeason": 17,
         "episodeGlobally": 42,
@@ -727,7 +727,7 @@
     },
     {
         "title": "Custody Law and Eastern European Diplomacy",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/5/54/2X18_Promopic8.jpg/revision/latest/scale-to-width-down/600?cb=20131219210928",
+        "imageUrl": "43.jpg",
         "season": 2,
         "episodeInSeason": 18,
         "episodeGlobally": 43,
@@ -743,7 +743,7 @@
     },
     {
         "title": "Critical Film Studies",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/4/49/2X19_Promopic6.jpg/revision/latest/scale-to-width-down/1000?cb=20131212135224",
+        "imageUrl": "44.jpg",
         "season": 2,
         "episodeInSeason": 19,
         "episodeGlobally": 44,
@@ -765,7 +765,7 @@
     },
     {
         "title": "Competitive Wine Tasting",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/7/7b/2x20_Promotional_photo_1.jpg/revision/latest/scale-to-width-down/761?cb=20150822144139",
+        "imageUrl": "45.jpg",
         "season": 2,
         "episodeInSeason": 20,
         "episodeGlobally": 45,
@@ -780,7 +780,7 @@
     },
     {
         "title": "Paradigms of Human Memory",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/a/a3/3x21_Prompic4.jpg/revision/latest/scale-to-width-down/761?cb=20140906150103",
+        "imageUrl": "46.jpg",
         "season": 2,
         "episodeInSeason": 21,
         "episodeGlobally": 46,
@@ -798,7 +798,7 @@
     },
     {
         "title": "Applied Anthropology and Culinary Arts",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/3/35/2X22_Promopic3.jpg/revision/latest/scale-to-width-down/600?cb=20131212071153",
+        "imageUrl": "47.jpg",
         "season": 2,
         "episodeInSeason": 22,
         "episodeGlobally": 47,
@@ -811,7 +811,7 @@
     },
     {
         "title": "A Fistful of Paintballs",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/1/17/2x23_Promotional_photo_12.jpg/revision/latest/scale-to-width-down/761?cb=20150826165139",
+        "imageUrl": "48.jpg",
         "season": 2,
         "episodeInSeason": 23,
         "episodeGlobally": 48,
@@ -826,7 +826,7 @@
     },
     {
         "title": "For A Few Paintballs More",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/5/50/2x24_Promotional_photo_4.jpg/revision/latest/scale-to-width-down/761?cb=20150824162726",
+        "imageUrl": "49.jpg",
         "season": 2,
         "episodeInSeason": 24,
         "episodeGlobally": 49,
@@ -840,7 +840,7 @@
     },
     {
         "title": "Biology 101",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/3/3d/3X1_Promopic12.jpg/revision/latest/scale-to-width-down/1000?cb=20131220183955",
+        "imageUrl": "50.jpg",
         "season": 3,
         "episodeInSeason": 1,
         "episodeGlobally": 50,
@@ -862,7 +862,7 @@
     },
     {
         "title": "Geography of Global Conflict",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/0/07/Geography_of_Global_Conflict_3.jpeg/revision/latest/scale-to-width-down/600?cb=20120313071232",
+        "imageUrl": "51.jpg",
         "season": 3,
         "episodeInSeason": 2,
         "episodeGlobally": 51,
@@ -876,7 +876,7 @@
     },
     {
         "title": "Competitive Ecology",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/8/87/Competitive_Ecology_1.jpeg/revision/latest/scale-to-width-down/600?cb=20120313065514",
+        "imageUrl": "52.jpg",
         "season": 3,
         "episodeInSeason": 3,
         "episodeGlobally": 52,
@@ -888,7 +888,7 @@
     },
     {
         "title": "Remedial Chaos Theory",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/f/f6/3X4_Promopic8.jpg/revision/latest/scale-to-width-down/1000?cb=20131221184339",
+        "imageUrl": "53.jpg",
         "season": 3,
         "episodeInSeason": 4,
         "episodeGlobally": 53,
@@ -901,7 +901,7 @@
     },
     {
         "title": "Horror Fiction in Seven Spooky Steps",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/7/77/Horror_Fiction_6.jpeg/revision/latest/scale-to-width-down/600?cb=20120313060522",
+        "imageUrl": "54.jpg",
         "season": 3,
         "episodeInSeason": 5,
         "episodeGlobally": 54,
@@ -912,7 +912,7 @@
     },
     {
         "title": "Advanced Gay",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/a/a1/3X6_Promo_pic19.jpg/revision/latest/scale-to-width-down/1000?cb=20131129192906",
+        "imageUrl": "55.jpg",
         "season": 3,
         "episodeInSeason": 6,
         "episodeGlobally": 55,
@@ -923,7 +923,7 @@
     },
     {
         "title": "Studies in Modern Movement",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/8/85/3x7_Promotional_photo_8.jpg/revision/latest/scale-to-width-down/761?cb=20150925193312",
+        "imageUrl": "56.jpg",
         "season": 3,
         "episodeInSeason": 7,
         "episodeGlobally": 56,
@@ -936,7 +936,7 @@
     },
     {
         "title": "Documentary Filmmaking: Redux",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/8/8b/3x8_Promotional_photo_4.jpg/revision/latest/scale-to-width-down/761?cb=20150925194432",
+        "imageUrl": "57.jpg",
         "season": 3,
         "episodeInSeason": 8,
         "episodeGlobally": 57,
@@ -949,7 +949,7 @@
     },
     {
         "title": "Foosball and Nocturnal Vigilantism",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/e/e3/357331.jpeg/revision/latest/scale-to-width-down/600?cb=20120313000131",
+        "imageUrl": "58.jpg",
         "season": 3,
         "episodeInSeason": 9,
         "episodeGlobally": 58,
@@ -961,7 +961,7 @@
     },
     {
         "title": "Regional Holiday Music",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/8/8f/3x10_Promotional_photo_24.jpg/revision/latest/scale-to-width-down/1000?cb=20150707210300",
+        "imageUrl": "59.jpg",
         "season": 3,
         "episodeInSeason": 10,
         "episodeGlobally": 59,
@@ -982,7 +982,7 @@
     },
     {
         "title": "Urban Matrimony and the Sandwich Arts",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/d/d5/361191.jpeg/revision/latest/scale-to-width-down/600?cb=20120312215049",
+        "imageUrl": "60.jpg",
         "season": 3,
         "episodeInSeason": 11,
         "episodeGlobally": 60,
@@ -997,7 +997,7 @@
     },
     {
         "title": "Contemporary Impressionists",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/3/30/3x12_Promopic4.jpg/revision/latest/scale-to-width-down/761?cb=20140829172400",
+        "imageUrl": "61.jpg",
         "season": 3,
         "episodeInSeason": 12,
         "episodeGlobally": 61,
@@ -1016,7 +1016,7 @@
     },
     {
         "title": "Digital Exploration of Interior Design",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/c/cf/3x13_Promotional_photo_2.jpg/revision/latest/scale-to-width-down/759?cb=20150825174928",
+        "imageUrl": "62.jpg",
         "season": 3,
         "episodeInSeason": 13,
         "episodeGlobally": 62,
@@ -1028,7 +1028,7 @@
     },
     {
         "title": "Pillows and Blankets",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/1/19/3x14_Promotional_photo_5.jpg/revision/latest/scale-to-width-down/1000?cb=20170619200913",
+        "imageUrl": "63.jpg",
         "season": 3,
         "episodeInSeason": 14,
         "episodeGlobally": 63,
@@ -1045,7 +1045,7 @@
     },
     {
         "title": "Origins of Vampire Mythology",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/b/b7/3x15_Promo_pic1.jpg/revision/latest/scale-to-width-down/758?cb=20140829152738",
+        "imageUrl": "64.jpg",
         "season": 3,
         "episodeInSeason": 15,
         "episodeGlobally": 64,
@@ -1058,7 +1058,7 @@
     },
     {
         "title": "Virtual Systems Analysis",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/7/7d/3x16_Promo_pic10.jpg/revision/latest/scale-to-width-down/762?cb=20140906112214",
+        "imageUrl": "65.jpg",
         "season": 3,
         "episodeInSeason": 16,
         "episodeGlobally": 65,
@@ -1078,7 +1078,7 @@
     },
     {
         "title": "Basic Lupine Urology",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/f/f2/3X17_Promo_Photo14.jpg/revision/latest/scale-to-width-down/760?cb=20140830154504",
+        "imageUrl": "66.jpg",
         "season": 3,
         "episodeInSeason": 17,
         "episodeGlobally": 66,
@@ -1090,7 +1090,7 @@
     },
     {
         "title": "Course Listing Unavailable",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/0/0f/3x18_Promopic7.jpg/revision/latest/scale-to-width-down/758?cb=20140829155724",
+        "imageUrl": "67.jpg",
         "season": 3,
         "episodeInSeason": 18,
         "episodeGlobally": 67,
@@ -1104,7 +1104,7 @@
     },
     {
         "title": "Curriculum Unavailable",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/0/0b/3x19_Promo_pic9.jpg/revision/latest/scale-to-width-down/1000?cb=20140823132623",
+        "imageUrl": "68.jpg",
         "season": 3,
         "episodeInSeason": 19,
         "episodeGlobally": 68,
@@ -1122,7 +1122,7 @@
     },
     {
         "title": "Digital Estate Planning",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/f/f8/S03E20-Abed_stays_behind_with_Hilda.jpg/revision/latest/scale-to-width-down/1000?cb=20170717215803",
+        "imageUrl": "69.jpg",
         "season": 3,
         "episodeInSeason": 20,
         "episodeGlobally": 69,
@@ -1136,7 +1136,7 @@
     },
     {
         "title": "The First Chang Dynasty",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/6/6e/3X21_Chang_and_his_Basterds.jpg/revision/latest/scale-to-width-down/600?cb=20120502124805",
+        "imageUrl": "70.jpg",
         "season": 3,
         "episodeInSeason": 21,
         "episodeGlobally": 70,
@@ -1150,7 +1150,7 @@
     },
     {
         "title": "Introduction to Finality",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/3/37/3x22_Promotional_photo_20.jpg/revision/latest/scale-to-width-down/759?cb=20150708232426",
+        "imageUrl": "71.jpg",
         "season": 3,
         "episodeInSeason": 22,
         "episodeGlobally": 71,
@@ -1171,7 +1171,7 @@
     },
     {
         "title": "History 101",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/6/6e/4X1_Dean_and_Jeff_embracing.jpg/revision/latest/scale-to-width-down/600?cb=20121216194417",
+        "imageUrl": "72.jpg",
         "season": 4,
         "episodeInSeason": 1,
         "episodeGlobally": 72,
@@ -1184,7 +1184,7 @@
     },
     {
         "title": "Paranormal Parentage",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/0/0a/4x2_Pierce_TV2.jpg/revision/latest/scale-to-width-down/1000?cb=20150310213530",
+        "imageUrl": "73.jpg",
         "season": 4,
         "episodeInSeason": 2,
         "episodeGlobally": 73,
@@ -1199,7 +1199,7 @@
     },
     {
         "title": "Conventions of Space and Time",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/8/8d/4X3_Promotional_pic1.jpg/revision/latest/scale-to-width-down/630?cb=20130213102203",
+        "imageUrl": "74.jpg",
         "season": 4,
         "episodeInSeason": 3,
         "episodeGlobally": 74,
@@ -1209,7 +1209,7 @@
     },
     {
         "title": "Alternative History of the German Invasion",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/e/e2/4X4_Britta_and_Annie.jpg/revision/latest/scale-to-width-down/600?cb=20130224212424",
+        "imageUrl": "75.jpg",
         "season": 4,
         "episodeInSeason": 4,
         "episodeGlobally": 75,
@@ -1227,7 +1227,7 @@
     },
     {
         "title": "Cooperative Escapism in Familial Relations",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/7/7a/4x5_Promotional_photo_2.jpg/revision/latest/scale-to-width-down/759?cb=20150826212117",
+        "imageUrl": "76.jpg",
         "season": 4,
         "episodeInSeason": 5,
         "episodeGlobally": 76,
@@ -1245,7 +1245,7 @@
     },
     {
         "title": "Advanced Documentary Filmmaking",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/e/e6/4x6_Promotional_photo_13.jpg/revision/latest/scale-to-width-down/759?cb=20151105044640",
+        "imageUrl": "77.jpg",
         "season": 4,
         "episodeInSeason": 6,
         "episodeGlobally": 77,
@@ -1257,7 +1257,7 @@
     },
     {
         "title": "Economics of Marine Biology",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/b/b9/4X7_promopic3.jpg/revision/latest/scale-to-width-down/600?cb=20130316191305",
+        "imageUrl": "78.jpg",
         "season": 4,
         "episodeInSeason": 7,
         "episodeGlobally": 78,
@@ -1269,7 +1269,7 @@
     },
     {
         "title": "Herstory of Dance",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/8/8c/Abed_and_Rachel.jpg/revision/latest/scale-to-width-down/1000?cb=20140204130126",
+        "imageUrl": "79.jpg",
         "season": 4,
         "episodeInSeason": 8,
         "episodeGlobally": 79,
@@ -1286,7 +1286,7 @@
     },
     {
         "title": "Intro to Felt Surrogacy",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/5/5b/4X9_Balloon_ride.jpg/revision/latest/scale-to-width-down/1000?cb=20130410190154",
+        "imageUrl": "80.jpg",
         "season": 4,
         "episodeInSeason": 9,
         "episodeGlobally": 80,
@@ -1300,7 +1300,7 @@
     },
     {
         "title": "Intro to Knots",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/f/fd/4x11_Promopic10.jpg/revision/latest/scale-to-width-down/759?cb=20150821151611",
+        "imageUrl": "81.jpg",
         "season": 4,
         "episodeInSeason": 10,
         "episodeGlobally": 81,
@@ -1314,7 +1314,7 @@
     },
     {
         "title": "Basic Human Anatomy",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/4/40/4X11_Promopic8.jpg/revision/latest/scale-to-width-down/600?cb=20130417152656",
+        "imageUrl": "82.jpg",
         "season": 4,
         "episodeInSeason": 11,
         "episodeGlobally": 82,
@@ -1330,7 +1330,7 @@
     },
     {
         "title": "Heroic Origins",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/4/47/4x12_Promopic24.jpg/revision/latest/scale-to-width-down/759?cb=20141031171037",
+        "imageUrl": "83.jpg",
         "season": 4,
         "episodeInSeason": 12,
         "episodeGlobally": 83,
@@ -1346,7 +1346,7 @@
     },
     {
         "title": "Advanced Introduction to Finality",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/f/f4/4X13_Jeff_Dean_Human_being.jpg/revision/latest/scale-to-width-down/600?cb=20130427121053",
+        "imageUrl": "84.jpg",
         "season": 4,
         "episodeInSeason": 13,
         "episodeGlobally": 84,
@@ -1359,7 +1359,7 @@
     },
     {
         "title": "Repilot",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/2/29/5X1_promo_pic1.jpg/revision/latest/scale-to-width-down/968?cb=20131114045028",
+        "imageUrl": "85.jpg",
         "season": 5,
         "episodeInSeason": 1,
         "episodeGlobally": 85,
@@ -1374,7 +1374,7 @@
     },
     {
         "title": "Introduction to Teaching",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/a/af/5X2_promo_pic_3.jpg/revision/latest/scale-to-width-down/600?cb=20131114094256",
+        "imageUrl": "86.jpg",
         "season": 5,
         "episodeInSeason": 2,
         "episodeGlobally": 86,
@@ -1399,7 +1399,7 @@
     },
     {
         "title": "Basic Intergluteal Numismatics",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/f/f4/5x3_Promotional_photo_4.jpg/revision/latest/scale-to-width-down/759?cb=20151003174959",
+        "imageUrl": "87.jpg",
         "season": 5,
         "episodeInSeason": 3,
         "episodeGlobally": 87,
@@ -1422,7 +1422,7 @@
     },
     {
         "title": "Cooperative Polygraphy",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/4/45/5x04_%282%29.jpg/revision/latest/scale-to-width-down/500?cb=20140111010223",
+        "imageUrl": "88.jpg",
         "season": 5,
         "episodeInSeason": 4,
         "episodeGlobally": 88,
@@ -1435,7 +1435,7 @@
     },
     {
         "title": "Geothermal Escapism",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/3/3f/5x5_Promopic6.jpg/revision/latest/scale-to-width-down/759?cb=20141029201615",
+        "imageUrl": "89.jpg",
         "season": 5,
         "episodeInSeason": 5,
         "episodeGlobally": 89,
@@ -1454,7 +1454,7 @@
     },
     {
         "title": "Analysis of Cork-Based Networking",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/0/07/5X7_Promo_pic5A.jpg/revision/latest/scale-to-width-down/759?cb=20140227213427",
+        "imageUrl": "80.jpg",
         "season": 5,
         "episodeInSeason": 6,
         "episodeGlobally": 90,
@@ -1472,7 +1472,7 @@
     },
     {
         "title": "Bondage and Beta Male Sexuality",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/9/92/5X7_Promo_pic10.jpg/revision/latest/scale-to-width-down/759?cb=20140301221039",
+        "imageUrl": "91.jpg",
         "season": 5,
         "episodeInSeason": 7,
         "episodeGlobally": 91,
@@ -1485,7 +1485,7 @@
     },
     {
         "title": "App Development and Condiments",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/f/f9/The_Fives_fancy_future_dance_ceremony.jpg/revision/latest/scale-to-width-down/1000?cb=20140313123312",
+        "imageUrl": "92.jpg",
         "season": 5,
         "episodeInSeason": 8,
         "episodeGlobally": 92,
@@ -1501,7 +1501,7 @@
     },
     {
         "title": "VCR Maintenance and Educational Publishing",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/1/14/5X8_Promo_pic_Cowboy.jpg/revision/latest/scale-to-width-down/480?cb=20140313092840",
+        "imageUrl": "93.jpg",
         "season": 5,
         "episodeInSeason": 9,
         "episodeGlobally": 93,
@@ -1513,7 +1513,7 @@
     },
     {
         "title": "Advanced Advanced Dungeons & Dragons",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/d/d4/5X10_Promo_pic6.jpg/revision/latest/scale-to-width-down/1000?cb=20140312095012",
+        "imageUrl": "94.jpg",
         "season": 5,
         "episodeInSeason": 10,
         "episodeGlobally": 94,
@@ -1527,7 +1527,7 @@
     },
     {
         "title": "G.I. Jeff",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/d/d5/Major_Dick_and_Xim_Xam.jpg/revision/latest/scale-to-width-down/1000?cb=20141008061451",
+        "imageUrl": "95.jpg",
         "season": 5,
         "episodeInSeason": 11,
         "episodeGlobally": 95,
@@ -1538,7 +1538,7 @@
     },
     {
         "title": "Basic Story",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/8/83/5x12_Promopic13.jpg/revision/latest/scale-to-width-down/724?cb=20150202184004",
+        "imageUrl": "96.jpg",
         "season": 5,
         "episodeInSeason": 12,
         "episodeGlobally": 96,
@@ -1548,7 +1548,7 @@
     },
     {
         "title": "Basic Sandwich",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/a/a8/Raquel.jpg/revision/latest/scale-to-width-down/1000?cb=20140602170311",
+        "imageUrl": "97.jpg",
         "season": 5,
         "episodeInSeason": 13,
         "episodeGlobally": 97,
@@ -1563,7 +1563,7 @@
     },
     {
         "title": "Ladders",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/3/31/S06E01-Abed_Annie_20s_bar.jpg/revision/latest/scale-to-width-down/1000?cb=20170711231501",
+        "imageUrl": "98.jpg",
         "season": 6,
         "episodeInSeason": 1,
         "episodeGlobally": 98,
@@ -1582,7 +1582,7 @@
     },
     {
         "title": "Lawnmower Maintenance and Postnatal Care",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/5/52/6x2_Promopic_2.jpg/revision/latest/scale-to-width-down/1000?cb=20150323205844",
+        "imageUrl": "99.jpg",
         "season": 6,
         "episodeInSeason": 2,
         "episodeGlobally": 99,
@@ -1595,7 +1595,7 @@
     },
     {
         "title": "Basic Crisis Room Decorum",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/8/8e/6x3_Promopic_6.jpg/revision/latest/scale-to-width-down/1000?cb=20150323210708",
+        "imageUrl": "100.jpg",
         "season": 6,
         "episodeInSeason": 3,
         "episodeGlobally": 100,
@@ -1606,7 +1606,7 @@
     },
     {
         "title": "Queer Studies & Advanced Waxing",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/f/fd/6x4_main_photo.jpg/revision/latest/scale-to-width-down/1000?cb=20150402071156",
+        "imageUrl": "101.jpg",
         "season": 6,
         "episodeInSeason": 4,
         "episodeGlobally": 101,
@@ -1623,7 +1623,7 @@
     },
     {
         "title": "Laws of Robotics & Party Rights",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/f/f9/6x5_Main_photo.jpg/revision/latest/scale-to-width-down/1000?cb=20150418065920",
+        "imageUrl": "102.jpg",
         "season": 6,
         "episodeInSeason": 5,
         "episodeGlobally": 102,
@@ -1642,7 +1642,7 @@
     },
     {
         "title": "Basic Email Security",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/d/d8/S06E06-Gupta_performing.jpg/revision/latest/scale-to-width-down/866?cb=20170625200719",
+        "imageUrl": "103.jpg",
         "season": 6,
         "episodeInSeason": 6,
         "episodeGlobally": 103,
@@ -1657,7 +1657,7 @@
     },
     {
         "title": "Advanced Safety Features",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/9/9e/Natalie_is_Freezing.jpg/revision/latest/scale-to-width-down/1000?cb=20150514115659",
+        "imageUrl": "104.jpg",
         "season": 6,
         "episodeInSeason": 7,
         "episodeGlobally": 104,
@@ -1669,7 +1669,7 @@
     },
     {
         "title": "Intro to Recycled Cinema",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/4/48/6x8_promopic2.jpg/revision/latest/scale-to-width-down/540?cb=20150430022052",
+        "imageUrl": "105.jpg",
         "season": 6,
         "episodeInSeason": 8,
         "episodeGlobally": 105,
@@ -1691,7 +1691,7 @@
     },
     {
         "title": "Grifting 101",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/a/ab/6x9_Title_card_6.jpg/revision/latest/scale-to-width-down/1000?cb=20150510173338",
+        "imageUrl": "106.jpg",
         "season": 6,
         "episodeInSeason": 9,
         "episodeGlobally": 106,
@@ -1706,7 +1706,7 @@
     },
     {
         "title": "Basic RV Repair and Palmistry",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/7/7d/The_giant_hand_enjoys_the_view.jpg/revision/latest/scale-to-width-down/1000?cb=20151217171844",
+        "imageUrl": "107.jpg",
         "season": 6,
         "episodeInSeason": 10,
         "episodeGlobally": 107,
@@ -1723,7 +1723,7 @@
     },
     {
         "title": "Modern Espionage",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/5/5b/6x11_Promopic1.jpg/revision/latest/scale-to-width-down/1000?cb=20160417000137",
+        "imageUrl": "108.jpg",
         "season": 6,
         "episodeInSeason": 11,
         "episodeGlobally": 108,
@@ -1747,7 +1747,7 @@
     },
     {
         "title": "Wedding Videography",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/f/f1/S06E12-Stacy_and_Garrett_dancing.jpg/revision/latest/scale-to-width-down/1000?cb=20170712224340",
+        "imageUrl": "109.jpg",
         "season": 6,
         "episodeInSeason": 12,
         "episodeGlobally": 109,
@@ -1759,7 +1759,7 @@
     },
     {
         "title": "Emotional Consequences of Broadcast Television",
-        "imageUrl": "https://static.wikia.nocookie.net/community-sitcom/images/e/ea/6x13_Promopic_6.jpg/revision/latest/scale-to-width-down/1000?cb=20150604180049",
+        "imageUrl": "110.jpg",
         "season": 6,
         "episodeInSeason": 13,
         "episodeGlobally": 110,
