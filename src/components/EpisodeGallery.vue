@@ -68,8 +68,9 @@ export default {
     methods: {
         includeEpisode(episode) {
             const searchQuery = store.state.searchQuery.toLowerCase();
-            return episode.title.toLowerCase().includes(searchQuery)
-            || episode.references.some(ref => ref.name.toLowerCase().includes(searchQuery));
+            return episode.episodeInSeason.toString() === searchQuery
+                || episode.title.toLowerCase().includes(searchQuery)
+                || episode.references.some(ref => ref.name.toLowerCase().includes(searchQuery));
         },
         filterBySeason(season) {
             return this.filteredEpisodes.filter(episode => episode.season === season);
