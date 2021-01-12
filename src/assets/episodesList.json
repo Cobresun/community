@@ -1,7 +1,7 @@
 [
     {
         "title": "Pilot",
-        "imageUrl": "1.jpg",
+        "imageUrl": "1.webp",
         "season": 1,
         "episodeInSeason": 1,
         "episodeGlobally": 1,
@@ -21,7 +21,7 @@
     },
     {
         "title": "Spanish 101",
-        "imageUrl": "2.jpg",
+        "imageUrl": "2.webp",
         "season": 1,
         "episodeInSeason": 2,
         "episodeGlobally": 2,
@@ -34,7 +34,7 @@
     },
     {
         "title": "Introduction to Film",
-        "imageUrl": "3.jpg",
+        "imageUrl": "3.webp",
         "season": 1,
         "episodeInSeason": 3,
         "episodeGlobally": 3,
@@ -52,7 +52,7 @@
     },
     {
         "title": "Social Psychology",
-        "imageUrl": "4.jpg",
+        "imageUrl": "4.webp",
         "season": 1,
         "episodeInSeason": 4,
         "episodeGlobally": 4,
@@ -65,7 +65,7 @@
     },
     {
         "title": "Advanced Criminal Law",
-        "imageUrl": "5.png",
+        "imageUrl": "5.webp",
         "season": 1,
         "episodeInSeason": 5,
         "episodeGlobally": 5,
@@ -87,7 +87,7 @@
     },
     {
         "title": "Football, Feminism and You",
-        "imageUrl": "6.jpg",
+        "imageUrl": "6.webp",
         "season": 1,
         "episodeInSeason": 6,
         "episodeGlobally": 6,
@@ -103,7 +103,7 @@
     },
     {
         "title": "Introduction to Statistics",
-        "imageUrl": "7.jpg",
+        "imageUrl": "7.webp",
         "season": 1,
         "episodeInSeason": 7,
         "episodeGlobally": 7,
@@ -121,7 +121,7 @@
     },
     {
         "title": "Home Economics",
-        "imageUrl": "8.jpg",
+        "imageUrl": "8.webp",
         "season": 1,
         "episodeInSeason": 8,
         "episodeGlobally": 8,
@@ -150,7 +150,7 @@
     },
     {
         "title": "Debate 109",
-        "imageUrl": "9.jpg",
+        "imageUrl": "9.webp",
         "season": 1,
         "episodeInSeason": 9,
         "episodeGlobally": 9,
@@ -166,7 +166,7 @@
     },
     {
         "title": "Environmental Science",
-        "imageUrl": "10.jpg",
+        "imageUrl": "10.webp",
         "season": 1,
         "episodeInSeason": 10,
         "episodeGlobally": 10,
@@ -184,7 +184,7 @@
     },
     {
         "title": "The Politics of Human Sexuality",
-        "imageUrl": "11.jpg",
+        "imageUrl": "11.webp",
         "season": 1,
         "episodeInSeason": 11,
         "episodeGlobally": 11,
@@ -200,7 +200,7 @@
     },
     {
         "title": "Comparative Religion",
-        "imageUrl": "12.jpg",
+        "imageUrl": "12.webp",
         "season": 1,
         "episodeInSeason": 12,
         "episodeGlobally": 12,
@@ -226,7 +226,7 @@
     },
     {
         "title": "Investigative Journalism",
-        "imageUrl": "13.png",
+        "imageUrl": "13.webp",
         "season": 1,
         "episodeInSeason": 13,
         "episodeGlobally": 13,
@@ -241,7 +241,7 @@
     },
     {
         "title": "Interpretive Dance",
-        "imageUrl": "14.jpg",
+        "imageUrl": "14.webp",
         "season": 1,
         "episodeInSeason": 14,
         "episodeGlobally": 14,
@@ -257,7 +257,7 @@
     },
     {
         "title": "Romantic Expressionism",
-        "imageUrl": "15.jpg",
+        "imageUrl": "15.webp",
         "season": 1,
         "episodeInSeason": 15,
         "episodeGlobally": 15,
@@ -272,7 +272,7 @@
     },
     {
         "title": "Communication Studies",
-        "imageUrl": "16.jpg",
+        "imageUrl": "16.webp",
         "season": 1,
         "episodeInSeason": 16,
         "episodeGlobally": 16,
@@ -289,7 +289,7 @@
     },
     {
         "title": "Physical Education",
-        "imageUrl": "17.jpg",
+        "imageUrl": "17.webp",
         "season": 1,
         "episodeInSeason": 17,
         "episodeGlobally": 17,
@@ -314,7 +314,7 @@
     },
     {
         "title": "Basic Genealogy",
-        "imageUrl": "18.jpg",
+        "imageUrl": "18.webp",
         "season": 1,
         "episodeInSeason": 18,
         "episodeGlobally": 18,
@@ -325,7 +325,7 @@
     },
     {
         "title": "Beginner Pottery",
-        "imageUrl": "19.jpg",
+        "imageUrl": "19.webp",
         "season": 1,
         "episodeInSeason": 19,
         "episodeGlobally": 19,
@@ -343,7 +343,7 @@
     },
     {
         "title": "The Science of Illusion",
-        "imageUrl": "20.jpg",
+        "imageUrl": "20.webp",
         "season": 1,
         "episodeInSeason": 20,
         "episodeGlobally": 20,
@@ -354,7 +354,7 @@
     },
     {
         "title": "Contemporary American Poultry",
-        "imageUrl": "21.png",
+        "imageUrl": "21.webp",
         "season": 1,
         "episodeInSeason": 21,
         "episodeGlobally": 21,
@@ -376,7 +376,7 @@
     },
     {
         "title": "The Art of Discourse",
-        "imageUrl": "22.png",
+        "imageUrl": "22.webp",
         "season": 1,
         "episodeInSeason": 22,
         "episodeGlobally": 22,
@@ -392,7 +392,7 @@
     },
     {
         "title": "Modern Warfare",
-        "imageUrl": "23.jpg",
+        "imageUrl": "23.webp",
         "season": 1,
         "episodeInSeason": 23,
         "episodeGlobally": 23,
@@ -418,7 +418,7 @@
     },
     {
         "title": "English as a Second Language",
-        "imageUrl": "24.png",
+        "imageUrl": "24.webp",
         "season": 1,
         "episodeInSeason": 24,
         "episodeGlobally": 24,
@@ -432,7 +432,7 @@
     },
     {
         "title": "Pascal's Triangle Revisited",
-        "imageUrl": "25.jpg",
+        "imageUrl": "25.webp",
         "season": 1,
         "episodeInSeason": 25,
         "episodeGlobally": 25,
@@ -445,7 +445,7 @@
     },
     {
         "title": "Anthropology 101",
-        "imageUrl": "26.jpg",
+        "imageUrl": "26.webp",
         "season": 2,
         "episodeInSeason": 1,
         "episodeGlobally": 26,
@@ -469,7 +469,7 @@
     },
     {
         "title": "Accounting for Lawyers",
-        "imageUrl": "27.png",
+        "imageUrl": "27.webp",
         "season": 2,
         "episodeInSeason": 2,
         "episodeGlobally": 27,
@@ -486,7 +486,7 @@
     },
     {
         "title": "The Psychology of Letting Go",
-        "imageUrl": "28.jpg",
+        "imageUrl": "28.webp",
         "season": 2,
         "episodeInSeason": 3,
         "episodeGlobally": 28,
@@ -502,7 +502,7 @@
     },
     {
         "title": "Basic Rocket Science",
-        "imageUrl": "29.jpg",
+        "imageUrl": "29.webp",
         "season": 2,
         "episodeInSeason": 4,
         "episodeGlobally": 29,
@@ -521,7 +521,7 @@
     },
     {
         "title": "Messianic Myths and Ancient Peoples",
-        "imageUrl": "30.jpg",
+        "imageUrl": "30.webp",
         "season": 2,
         "episodeInSeason": 5,
         "episodeGlobally": 30,
@@ -538,7 +538,7 @@
     },
     {
         "title": "Epidemiology",
-        "imageUrl": "31.png",
+        "imageUrl": "31.webp",
         "season": 2,
         "episodeInSeason": 6,
         "episodeGlobally": 31,
@@ -555,7 +555,7 @@
     },
     {
         "title": "Aerodynamics of Gender",
-        "imageUrl": "32.jpg",
+        "imageUrl": "32.webp",
         "season": 2,
         "episodeInSeason": 7,
         "episodeGlobally": 32,
@@ -571,7 +571,7 @@
     },
     {
         "title": "Cooperative Calligraphy",
-        "imageUrl": "33.jpg",
+        "imageUrl": "33.webp",
         "season": 2,
         "episodeInSeason": 8,
         "episodeGlobally": 33,
@@ -584,7 +584,7 @@
     },
     {
         "title": "Conspiracy Theories and Interior Design",
-        "imageUrl": "34.png",
+        "imageUrl": "34.webp",
         "season": 2,
         "episodeInSeason": 9,
         "episodeGlobally": 34,
@@ -604,7 +604,7 @@
     },
     {
         "title": "Mixology Certification",
-        "imageUrl": "35.jpg",
+        "imageUrl": "35.webp",
         "season": 2,
         "episodeInSeason": 10,
         "episodeGlobally": 35,
@@ -619,7 +619,7 @@
     },
     {
         "title": "Abed's Uncontrollable Christmas",
-        "imageUrl": "36.jpg",
+        "imageUrl": "36.webp",
         "season": 2,
         "episodeInSeason": 11,
         "episodeGlobally": 36,
@@ -630,7 +630,7 @@
     },
     {
         "title": "Asian Population Studies",
-        "imageUrl": "37.png",
+        "imageUrl": "37.webp",
         "season": 2,
         "episodeInSeason": 12,
         "episodeGlobally": 37,
@@ -647,7 +647,7 @@
     },
     {
         "title": "Celebrity Pharmacology 212",
-        "imageUrl": "38.jpg",
+        "imageUrl": "38.webp",
         "season": 2,
         "episodeInSeason": 13,
         "episodeGlobally": 38,
@@ -659,7 +659,7 @@
     },
     {
         "title": "Advanced Dungeons & Dragons",
-        "imageUrl": "39.jpg",
+        "imageUrl": "39.webp",
         "season": 2,
         "episodeInSeason": 14,
         "episodeGlobally": 39,
@@ -669,7 +669,7 @@
     },
     {
         "title": "Early 21st Century Romanticism",
-        "imageUrl": "40.jpg",
+        "imageUrl": "40.webp",
         "season": 2,
         "episodeInSeason": 15,
         "episodeGlobally": 40,
@@ -683,7 +683,7 @@
     },
     {
         "title": "Intermediate Documentary Filmmaking",
-        "imageUrl": "41.jpg",
+        "imageUrl": "41.webp",
         "season": 2,
         "episodeInSeason": 16,
         "episodeGlobally": 41,
@@ -711,7 +711,7 @@
     },
     {
         "title": "Intro to Political Science",
-        "imageUrl": "42.jpg",
+        "imageUrl": "42.webp",
         "season": 2,
         "episodeInSeason": 17,
         "episodeGlobally": 42,
@@ -727,7 +727,7 @@
     },
     {
         "title": "Custody Law and Eastern European Diplomacy",
-        "imageUrl": "43.jpg",
+        "imageUrl": "43.webp",
         "season": 2,
         "episodeInSeason": 18,
         "episodeGlobally": 43,
@@ -743,7 +743,7 @@
     },
     {
         "title": "Critical Film Studies",
-        "imageUrl": "44.jpg",
+        "imageUrl": "44.webp",
         "season": 2,
         "episodeInSeason": 19,
         "episodeGlobally": 44,
@@ -765,7 +765,7 @@
     },
     {
         "title": "Competitive Wine Tasting",
-        "imageUrl": "45.jpg",
+        "imageUrl": "45.webp",
         "season": 2,
         "episodeInSeason": 20,
         "episodeGlobally": 45,
@@ -780,7 +780,7 @@
     },
     {
         "title": "Paradigms of Human Memory",
-        "imageUrl": "46.jpg",
+        "imageUrl": "46.webp",
         "season": 2,
         "episodeInSeason": 21,
         "episodeGlobally": 46,
@@ -798,7 +798,7 @@
     },
     {
         "title": "Applied Anthropology and Culinary Arts",
-        "imageUrl": "47.jpg",
+        "imageUrl": "47.webp",
         "season": 2,
         "episodeInSeason": 22,
         "episodeGlobally": 47,
@@ -811,7 +811,7 @@
     },
     {
         "title": "A Fistful of Paintballs",
-        "imageUrl": "48.jpg",
+        "imageUrl": "48.webp",
         "season": 2,
         "episodeInSeason": 23,
         "episodeGlobally": 48,
@@ -826,7 +826,7 @@
     },
     {
         "title": "For A Few Paintballs More",
-        "imageUrl": "49.jpg",
+        "imageUrl": "49.webp",
         "season": 2,
         "episodeInSeason": 24,
         "episodeGlobally": 49,
@@ -840,7 +840,7 @@
     },
     {
         "title": "Biology 101",
-        "imageUrl": "50.jpg",
+        "imageUrl": "50.webp",
         "season": 3,
         "episodeInSeason": 1,
         "episodeGlobally": 50,
@@ -862,7 +862,7 @@
     },
     {
         "title": "Geography of Global Conflict",
-        "imageUrl": "51.jpg",
+        "imageUrl": "51.webp",
         "season": 3,
         "episodeInSeason": 2,
         "episodeGlobally": 51,
@@ -876,7 +876,7 @@
     },
     {
         "title": "Competitive Ecology",
-        "imageUrl": "52.jpg",
+        "imageUrl": "52.webp",
         "season": 3,
         "episodeInSeason": 3,
         "episodeGlobally": 52,
@@ -888,7 +888,7 @@
     },
     {
         "title": "Remedial Chaos Theory",
-        "imageUrl": "53.jpg",
+        "imageUrl": "53.webp",
         "season": 3,
         "episodeInSeason": 4,
         "episodeGlobally": 53,
@@ -901,7 +901,7 @@
     },
     {
         "title": "Horror Fiction in Seven Spooky Steps",
-        "imageUrl": "54.jpg",
+        "imageUrl": "54.webp",
         "season": 3,
         "episodeInSeason": 5,
         "episodeGlobally": 54,
@@ -912,7 +912,7 @@
     },
     {
         "title": "Advanced Gay",
-        "imageUrl": "55.jpg",
+        "imageUrl": "55.webp",
         "season": 3,
         "episodeInSeason": 6,
         "episodeGlobally": 55,
@@ -923,7 +923,7 @@
     },
     {
         "title": "Studies in Modern Movement",
-        "imageUrl": "56.jpg",
+        "imageUrl": "56.webp",
         "season": 3,
         "episodeInSeason": 7,
         "episodeGlobally": 56,
@@ -936,7 +936,7 @@
     },
     {
         "title": "Documentary Filmmaking: Redux",
-        "imageUrl": "57.jpg",
+        "imageUrl": "57.webp",
         "season": 3,
         "episodeInSeason": 8,
         "episodeGlobally": 57,
@@ -949,7 +949,7 @@
     },
     {
         "title": "Foosball and Nocturnal Vigilantism",
-        "imageUrl": "58.jpg",
+        "imageUrl": "58.webp",
         "season": 3,
         "episodeInSeason": 9,
         "episodeGlobally": 58,
@@ -961,7 +961,7 @@
     },
     {
         "title": "Regional Holiday Music",
-        "imageUrl": "59.jpg",
+        "imageUrl": "59.webp",
         "season": 3,
         "episodeInSeason": 10,
         "episodeGlobally": 59,
@@ -982,7 +982,7 @@
     },
     {
         "title": "Urban Matrimony and the Sandwich Arts",
-        "imageUrl": "60.jpg",
+        "imageUrl": "60.webp",
         "season": 3,
         "episodeInSeason": 11,
         "episodeGlobally": 60,
@@ -997,7 +997,7 @@
     },
     {
         "title": "Contemporary Impressionists",
-        "imageUrl": "61.jpg",
+        "imageUrl": "61.webp",
         "season": 3,
         "episodeInSeason": 12,
         "episodeGlobally": 61,
@@ -1016,7 +1016,7 @@
     },
     {
         "title": "Digital Exploration of Interior Design",
-        "imageUrl": "62.jpg",
+        "imageUrl": "62.webp",
         "season": 3,
         "episodeInSeason": 13,
         "episodeGlobally": 62,
@@ -1028,7 +1028,7 @@
     },
     {
         "title": "Pillows and Blankets",
-        "imageUrl": "63.jpg",
+        "imageUrl": "63.webp",
         "season": 3,
         "episodeInSeason": 14,
         "episodeGlobally": 63,
@@ -1045,7 +1045,7 @@
     },
     {
         "title": "Origins of Vampire Mythology",
-        "imageUrl": "64.jpg",
+        "imageUrl": "64.webp",
         "season": 3,
         "episodeInSeason": 15,
         "episodeGlobally": 64,
@@ -1058,7 +1058,7 @@
     },
     {
         "title": "Virtual Systems Analysis",
-        "imageUrl": "65.jpg",
+        "imageUrl": "65.webp",
         "season": 3,
         "episodeInSeason": 16,
         "episodeGlobally": 65,
@@ -1078,7 +1078,7 @@
     },
     {
         "title": "Basic Lupine Urology",
-        "imageUrl": "66.jpg",
+        "imageUrl": "66.webp",
         "season": 3,
         "episodeInSeason": 17,
         "episodeGlobally": 66,
@@ -1090,7 +1090,7 @@
     },
     {
         "title": "Course Listing Unavailable",
-        "imageUrl": "67.jpg",
+        "imageUrl": "67.webp",
         "season": 3,
         "episodeInSeason": 18,
         "episodeGlobally": 67,
@@ -1104,7 +1104,7 @@
     },
     {
         "title": "Curriculum Unavailable",
-        "imageUrl": "68.jpg",
+        "imageUrl": "68.webp",
         "season": 3,
         "episodeInSeason": 19,
         "episodeGlobally": 68,
@@ -1122,7 +1122,7 @@
     },
     {
         "title": "Digital Estate Planning",
-        "imageUrl": "69.jpg",
+        "imageUrl": "69.webp",
         "season": 3,
         "episodeInSeason": 20,
         "episodeGlobally": 69,
@@ -1136,7 +1136,7 @@
     },
     {
         "title": "The First Chang Dynasty",
-        "imageUrl": "70.jpg",
+        "imageUrl": "70.webp",
         "season": 3,
         "episodeInSeason": 21,
         "episodeGlobally": 70,
@@ -1150,7 +1150,7 @@
     },
     {
         "title": "Introduction to Finality",
-        "imageUrl": "71.jpg",
+        "imageUrl": "71.webp",
         "season": 3,
         "episodeInSeason": 22,
         "episodeGlobally": 71,
@@ -1171,7 +1171,7 @@
     },
     {
         "title": "History 101",
-        "imageUrl": "72.jpg",
+        "imageUrl": "72.webp",
         "season": 4,
         "episodeInSeason": 1,
         "episodeGlobally": 72,
@@ -1184,7 +1184,7 @@
     },
     {
         "title": "Paranormal Parentage",
-        "imageUrl": "73.jpg",
+        "imageUrl": "73.webp",
         "season": 4,
         "episodeInSeason": 2,
         "episodeGlobally": 73,
@@ -1199,7 +1199,7 @@
     },
     {
         "title": "Conventions of Space and Time",
-        "imageUrl": "74.jpg",
+        "imageUrl": "74.webp",
         "season": 4,
         "episodeInSeason": 3,
         "episodeGlobally": 74,
@@ -1209,7 +1209,7 @@
     },
     {
         "title": "Alternative History of the German Invasion",
-        "imageUrl": "75.jpg",
+        "imageUrl": "75.webp",
         "season": 4,
         "episodeInSeason": 4,
         "episodeGlobally": 75,
@@ -1227,7 +1227,7 @@
     },
     {
         "title": "Cooperative Escapism in Familial Relations",
-        "imageUrl": "76.jpg",
+        "imageUrl": "76.webp",
         "season": 4,
         "episodeInSeason": 5,
         "episodeGlobally": 76,
@@ -1245,7 +1245,7 @@
     },
     {
         "title": "Advanced Documentary Filmmaking",
-        "imageUrl": "77.jpg",
+        "imageUrl": "77.webp",
         "season": 4,
         "episodeInSeason": 6,
         "episodeGlobally": 77,
@@ -1257,7 +1257,7 @@
     },
     {
         "title": "Economics of Marine Biology",
-        "imageUrl": "78.jpg",
+        "imageUrl": "78.webp",
         "season": 4,
         "episodeInSeason": 7,
         "episodeGlobally": 78,
@@ -1269,7 +1269,7 @@
     },
     {
         "title": "Herstory of Dance",
-        "imageUrl": "79.jpg",
+        "imageUrl": "79.webp",
         "season": 4,
         "episodeInSeason": 8,
         "episodeGlobally": 79,
@@ -1286,7 +1286,7 @@
     },
     {
         "title": "Intro to Felt Surrogacy",
-        "imageUrl": "80.jpg",
+        "imageUrl": "80.webp",
         "season": 4,
         "episodeInSeason": 9,
         "episodeGlobally": 80,
@@ -1300,7 +1300,7 @@
     },
     {
         "title": "Intro to Knots",
-        "imageUrl": "81.jpg",
+        "imageUrl": "81.webp",
         "season": 4,
         "episodeInSeason": 10,
         "episodeGlobally": 81,
@@ -1314,7 +1314,7 @@
     },
     {
         "title": "Basic Human Anatomy",
-        "imageUrl": "82.jpg",
+        "imageUrl": "82.webp",
         "season": 4,
         "episodeInSeason": 11,
         "episodeGlobally": 82,
@@ -1330,7 +1330,7 @@
     },
     {
         "title": "Heroic Origins",
-        "imageUrl": "83.jpg",
+        "imageUrl": "83.webp",
         "season": 4,
         "episodeInSeason": 12,
         "episodeGlobally": 83,
@@ -1346,7 +1346,7 @@
     },
     {
         "title": "Advanced Introduction to Finality",
-        "imageUrl": "84.jpg",
+        "imageUrl": "84.webp",
         "season": 4,
         "episodeInSeason": 13,
         "episodeGlobally": 84,
@@ -1359,7 +1359,7 @@
     },
     {
         "title": "Repilot",
-        "imageUrl": "85.jpg",
+        "imageUrl": "85.webp",
         "season": 5,
         "episodeInSeason": 1,
         "episodeGlobally": 85,
@@ -1374,7 +1374,7 @@
     },
     {
         "title": "Introduction to Teaching",
-        "imageUrl": "86.jpg",
+        "imageUrl": "86.webp",
         "season": 5,
         "episodeInSeason": 2,
         "episodeGlobally": 86,
@@ -1399,7 +1399,7 @@
     },
     {
         "title": "Basic Intergluteal Numismatics",
-        "imageUrl": "87.jpg",
+        "imageUrl": "87.webp",
         "season": 5,
         "episodeInSeason": 3,
         "episodeGlobally": 87,
@@ -1422,7 +1422,7 @@
     },
     {
         "title": "Cooperative Polygraphy",
-        "imageUrl": "88.jpg",
+        "imageUrl": "88.webp",
         "season": 5,
         "episodeInSeason": 4,
         "episodeGlobally": 88,
@@ -1435,7 +1435,7 @@
     },
     {
         "title": "Geothermal Escapism",
-        "imageUrl": "89.jpg",
+        "imageUrl": "89.webp",
         "season": 5,
         "episodeInSeason": 5,
         "episodeGlobally": 89,
@@ -1454,7 +1454,7 @@
     },
     {
         "title": "Analysis of Cork-Based Networking",
-        "imageUrl": "80.jpg",
+        "imageUrl": "80.webp",
         "season": 5,
         "episodeInSeason": 6,
         "episodeGlobally": 90,
@@ -1472,7 +1472,7 @@
     },
     {
         "title": "Bondage and Beta Male Sexuality",
-        "imageUrl": "91.jpg",
+        "imageUrl": "91.webp",
         "season": 5,
         "episodeInSeason": 7,
         "episodeGlobally": 91,
@@ -1485,7 +1485,7 @@
     },
     {
         "title": "App Development and Condiments",
-        "imageUrl": "92.jpg",
+        "imageUrl": "92.webp",
         "season": 5,
         "episodeInSeason": 8,
         "episodeGlobally": 92,
@@ -1501,7 +1501,7 @@
     },
     {
         "title": "VCR Maintenance and Educational Publishing",
-        "imageUrl": "93.jpg",
+        "imageUrl": "93.webp",
         "season": 5,
         "episodeInSeason": 9,
         "episodeGlobally": 93,
@@ -1513,7 +1513,7 @@
     },
     {
         "title": "Advanced Advanced Dungeons & Dragons",
-        "imageUrl": "94.jpg",
+        "imageUrl": "94.webp",
         "season": 5,
         "episodeInSeason": 10,
         "episodeGlobally": 94,
@@ -1527,7 +1527,7 @@
     },
     {
         "title": "G.I. Jeff",
-        "imageUrl": "95.jpg",
+        "imageUrl": "95.webp",
         "season": 5,
         "episodeInSeason": 11,
         "episodeGlobally": 95,
@@ -1538,7 +1538,7 @@
     },
     {
         "title": "Basic Story",
-        "imageUrl": "96.jpg",
+        "imageUrl": "96.webp",
         "season": 5,
         "episodeInSeason": 12,
         "episodeGlobally": 96,
@@ -1548,7 +1548,7 @@
     },
     {
         "title": "Basic Sandwich",
-        "imageUrl": "97.jpg",
+        "imageUrl": "97.webp",
         "season": 5,
         "episodeInSeason": 13,
         "episodeGlobally": 97,
@@ -1563,7 +1563,7 @@
     },
     {
         "title": "Ladders",
-        "imageUrl": "98.jpg",
+        "imageUrl": "98.webp",
         "season": 6,
         "episodeInSeason": 1,
         "episodeGlobally": 98,
@@ -1582,7 +1582,7 @@
     },
     {
         "title": "Lawnmower Maintenance and Postnatal Care",
-        "imageUrl": "99.jpg",
+        "imageUrl": "99.webp",
         "season": 6,
         "episodeInSeason": 2,
         "episodeGlobally": 99,
@@ -1595,7 +1595,7 @@
     },
     {
         "title": "Basic Crisis Room Decorum",
-        "imageUrl": "100.jpg",
+        "imageUrl": "100.webp",
         "season": 6,
         "episodeInSeason": 3,
         "episodeGlobally": 100,
@@ -1606,7 +1606,7 @@
     },
     {
         "title": "Queer Studies & Advanced Waxing",
-        "imageUrl": "101.jpg",
+        "imageUrl": "101.webp",
         "season": 6,
         "episodeInSeason": 4,
         "episodeGlobally": 101,
@@ -1623,7 +1623,7 @@
     },
     {
         "title": "Laws of Robotics & Party Rights",
-        "imageUrl": "102.jpg",
+        "imageUrl": "102.webp",
         "season": 6,
         "episodeInSeason": 5,
         "episodeGlobally": 102,
@@ -1642,7 +1642,7 @@
     },
     {
         "title": "Basic Email Security",
-        "imageUrl": "103.jpg",
+        "imageUrl": "103.webp",
         "season": 6,
         "episodeInSeason": 6,
         "episodeGlobally": 103,
@@ -1657,7 +1657,7 @@
     },
     {
         "title": "Advanced Safety Features",
-        "imageUrl": "104.jpg",
+        "imageUrl": "104.webp",
         "season": 6,
         "episodeInSeason": 7,
         "episodeGlobally": 104,
@@ -1669,7 +1669,7 @@
     },
     {
         "title": "Intro to Recycled Cinema",
-        "imageUrl": "105.jpg",
+        "imageUrl": "105.webp",
         "season": 6,
         "episodeInSeason": 8,
         "episodeGlobally": 105,
@@ -1691,7 +1691,7 @@
     },
     {
         "title": "Grifting 101",
-        "imageUrl": "106.jpg",
+        "imageUrl": "106.webp",
         "season": 6,
         "episodeInSeason": 9,
         "episodeGlobally": 106,
@@ -1706,7 +1706,7 @@
     },
     {
         "title": "Basic RV Repair and Palmistry",
-        "imageUrl": "107.jpg",
+        "imageUrl": "107.webp",
         "season": 6,
         "episodeInSeason": 10,
         "episodeGlobally": 107,
@@ -1723,7 +1723,7 @@
     },
     {
         "title": "Modern Espionage",
-        "imageUrl": "108.jpg",
+        "imageUrl": "108.webp",
         "season": 6,
         "episodeInSeason": 11,
         "episodeGlobally": 108,
@@ -1747,7 +1747,7 @@
     },
     {
         "title": "Wedding Videography",
-        "imageUrl": "109.jpg",
+        "imageUrl": "109.webp",
         "season": 6,
         "episodeInSeason": 12,
         "episodeGlobally": 109,
@@ -1759,7 +1759,7 @@
     },
     {
         "title": "Emotional Consequences of Broadcast Television",
-        "imageUrl": "110.jpg",
+        "imageUrl": "110.webp",
         "season": 6,
         "episodeInSeason": 13,
         "episodeGlobally": 110,
