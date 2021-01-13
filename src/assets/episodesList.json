@@ -1718,7 +1718,8 @@
             { "name": "The Adventures of Priscilla, Queen of the Desert", "type": "movie" },
             { "name": "Star Wars: Episode VI – Return of the Jedi", "type": "movie" },
             { "name": "Wheel of Fortune", "type": "show" },
-            { "name": "Kid 'n Play", "type": "music" }
+            { "name": "Kid 'n Play", "type": "music" },
+            { "name": "Breaking Bad", "type": "show"}
         ]
     },
     {
